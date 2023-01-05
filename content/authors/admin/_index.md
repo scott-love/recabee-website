@@ -19,11 +19,11 @@ bio: My research interests include...
 interests:
   - Neuroimaging
 
-%education:
-%  courses:
-%    - course: PhD in Artificial Intelligence
-%      institution: Stanford University
-%      year: 2012
+#education:
+#  courses:
+#    - course: PhD in Artificial Intelligence
+#      institution: Stanford University
+#      year: 2012
  
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
