@@ -6,7 +6,7 @@ title: Scott Love
 superuser: true
 
 # Role/position
-role: Researcher
+role: Animator
 
 # Organizations/Affiliations
 organizations:
