@@ -6,7 +6,7 @@ title: Scott Love
 superuser: true
 
 # Role/position
-role: Animator
+role: Researcher
 
 # Organizations/Affiliations
 organizations:
@@ -54,7 +54,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Member
+  - Animator
 ---
 
 Scott Love is....
