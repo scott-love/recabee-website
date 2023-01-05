@@ -1,7 +1,7 @@
 ---
 title: Webinar 3 - expectation
 
-event: RECABEE Webinar
+event: RECABEE Webinar 3
 event_url: 
 
 location: Online via Zoom
@@ -22,9 +22,6 @@ all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: '2017-01-01T00:00:00Z'
-
-authors: []
-tags: []
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -53,3 +50,4 @@ slides: ""
 projects: []
 ---
 
+The third RECABEE webinar where we discussed animal expectations.
