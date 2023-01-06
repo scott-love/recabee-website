@@ -19,7 +19,6 @@ design:
   columns: '1'
   background:
     image: frontcows.jpg
-    caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/JMjNnQ2xFoY?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)'
     image_darken: 0
     image_parallax: false
     image_position: center
@@ -30,4 +29,4 @@ design:
 advanced:
   css_class: fullscreen
 ---
-  
+Image credit: [**Unsplash**](https://unsplash.com/photos/JMjNnQ2xFoY?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
