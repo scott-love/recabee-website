@@ -18,7 +18,7 @@ subtitle:
 design:
   columns: '1'
   background:
-    image: coders.jpg
+    image: frontcows.jpg
     image_darken: 0
     image_parallax: false
     image_position: center
@@ -29,3 +29,4 @@ design:
 advanced:
   css_class: fullscreen
 ---
+{{% cta cta_link="./people/" cta_text="Rencontrez le réseau →" %}}
