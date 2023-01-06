@@ -5,9 +5,9 @@
 
 main:
   - name: Événements
-    url: events
+    url: event
     weight: 10
   - name: Membres
-    url: members
+    url: people
     weight: 20
   
