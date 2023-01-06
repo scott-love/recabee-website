@@ -25,8 +25,7 @@ design:
     image_size: cover
     text_color_light: true
   spacing:
-    padding: ['20px', '0', '10px', '0']
+    padding: ['20px', '0', '20px', '0']
 advanced:
   css_class: fullscreen
 ---
-Image credit: [**Unsplash**](https://unsplash.com/photos/JMjNnQ2xFoY?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
