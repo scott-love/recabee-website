@@ -1,7 +1,7 @@
 ---
-title: Webinar 3 - expectation
+title: Webinaire 3 - attentes
 
-event: RECABEE Webinar 3
+event: RECABEE webinaire 3
 event_url: 
 
 location: Online via Zoom
@@ -12,7 +12,7 @@ location: Online via Zoom
 #  postcode: '94305'
 #  country: United States
 
-summary: The third RECABEE webinar where we discussed animal expectations.
+summary: Le troisième webinaire RECABEE où nous avons discuté des attentes des animaux.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -50,4 +50,4 @@ slides: ""
 projects: []
 ---
 
-The third RECABEE webinar where we discussed animal expectations.
+Le troisième webinaire RECABEE où nous avons discuté des attentes des animaux.
