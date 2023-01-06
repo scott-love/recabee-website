@@ -18,8 +18,8 @@ en:
   menu:
     main:
       - name: Events
-        url: '#event'
+        url: event
         weight: 10
       - name: Members
-        url: '#people'
+        url: people
         weight: 20
