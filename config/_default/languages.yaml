@@ -17,6 +17,9 @@ en:
     description: Site description in Chinese...
   menu:
     main:
-      - name: Événements
-        url: '#event'
-        weight: 1
+      - name: Events
+        url: '#events'
+        weight: 10
+      - name: Members
+        url: '#members'
+        weight: 20
