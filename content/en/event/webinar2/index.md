@@ -16,8 +16,8 @@ summary: The second RECABEE webinar where we discussed...
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2022-12-15T13:30:00Z'
-date_end: '2022-12-15T17:00:00Z'
+date: '2022-05-10T13:30:00Z'
+date_end: '2022-05-10T17:15:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
