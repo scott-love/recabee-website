@@ -29,3 +29,4 @@ design:
 advanced:
   css_class: fullscreen
 ---
+{{% cta cta_link="./people/" cta_text="Meet the network →" %}}
