@@ -8,7 +8,7 @@ title: Latest Events
 subtitle:
 
 content:
-  count: 5
+  count: 2
   filters:
     author: ''
     category: ''
@@ -19,6 +19,6 @@ content:
   order: desc
   page_type: event
 design:
-  view: 2
+  view: 3
   columns: '1'
 ---
