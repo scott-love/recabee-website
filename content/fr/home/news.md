@@ -4,7 +4,7 @@ widget: pages
 headless: true
 weight: 20
 
-title: Latest Events
+title: Les derniers événements
 subtitle:
 
 content:
