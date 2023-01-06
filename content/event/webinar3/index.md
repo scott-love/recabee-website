@@ -28,7 +28,7 @@ featured: false
 
 image:
   caption: ''
-  focal_point: Right
+  focal_point: Top
 
 url_code: ''
 url_pdf: ''
