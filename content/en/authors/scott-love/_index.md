@@ -10,7 +10,7 @@ role: Researcher
 
 # Organizations/Affiliations
 organizations:
-  - name: INRAE
+  - name: INRAE, UMR PRC
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -32,7 +32,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'mailto:scott.love@inrae.fr'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/love_a_scott
