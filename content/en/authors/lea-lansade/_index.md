@@ -10,14 +10,16 @@ role: Researcher
 
 # Organizations/Affiliations
 organizations:
-  - name: IFCE
+  - name: UMR PRC CNRS IFCE INRAE Université de Tours
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include...
+bio: 
 
 interests:
-  - 
+  - cognition
+  - animal welfare
+  - ethology
 
 #education:
 #  courses:
@@ -32,16 +34,16 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'mailto:lea.lansade@inrae.fr'
 #  - icon: twitter
 #    icon_pack: fab
 #    link: https://twitter.com/love_a_scott
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=HhhediAAAAAJ&hl
-#  - icon: orcid
-#    icon_pack: ai
-#    link: https://orcid.org/0000-0002-4518-5454
+  - icon: orcid
+    icon_pack: ai
+    link:  https://orcid.org/0000-0002-4185-9714
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
