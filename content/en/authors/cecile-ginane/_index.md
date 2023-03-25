@@ -66,5 +66,3 @@ user_groups:
   - Members
   - Animators
 ---
-
-Cécile Ginane is....
