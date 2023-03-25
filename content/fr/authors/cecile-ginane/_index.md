@@ -6,18 +6,23 @@ title: Cécile Ginane
 superuser: false
 
 # Role/position
-role: Researcher
+role: Chargée de recherche
 
 # Organizations/Affiliations
 organizations:
-  - name: INRAE
-    url: ''
+  - name: INRAE, UMR1213 Herbivores
+    url: 'https://umrh-bioinfo.clermont.inrae.fr/Intranet/web/UMRH'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include...
+bio: 
 
 interests:
-  - ...
+  - comportement
+  - cognition
+  - bien-être
+  - alimentation
+  - pâturage
+  - herbivore animaux d'élevage
 
 #education:
 #  courses:
@@ -32,13 +37,13 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'mailto:cecile.ginane@inrae.fr'
 #  - icon: twitter
 #    icon_pack: fab
 #    link: https://twitter.com/love_a_scott
-#  - icon: google-scholar
-#    icon_pack: ai
-#    link: https://scholar.google.com/citations?user=jiIfA5IAAAAJ
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?view_op=list_works&hl=fr&user=-NtMRroAAAAJ
   - icon: orcid
     icon_pack: ai
     link: https://orcid.org/0000-0001-9059-6001
@@ -62,4 +67,4 @@ user_groups:
   - Animators
 ---
 
-Cécile Ginane is....
+
