@@ -11,13 +11,15 @@ role: Researcher
 # Organizations/Affiliations
 organizations:
   - name: INRAE, UMR PRC
-    url: ''
+    url: 'https://www6.val-de-loire.inrae.fr/physiologie_reproduction_comportements/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include...
+bio: 
 
 interests:
-  - Neuroimaging
+  - neuroimaging
+  - cognitive neuroscience
+  - social perception
 
 #education:
 #  courses:
@@ -61,5 +63,3 @@ user_groups:
   - Members
   - Animators
 ---
-
-Scott Love is....

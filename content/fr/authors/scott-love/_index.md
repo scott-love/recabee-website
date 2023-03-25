@@ -6,18 +6,20 @@ title: Scott Love
 superuser: false
 
 # Role/position
-role: Researcher
+role: Chargé de recherche
 
 # Organizations/Affiliations
 organizations:
-  - name: INRAE
-    url: ''
+  - name: INRAE, UMR PRC
+    url: 'https://www6.val-de-loire.inrae.fr/physiologie_reproduction_comportements/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include...
+bio: 
 
 interests:
-  - Neuroimaging
+  - neuroimagerie
+  - neurosciences cognitives
+  - perception sociale
 
 #education:
 #  courses:
@@ -32,7 +34,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'mailto:scott.love@inrae.fr'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/love_a_scott
@@ -62,4 +64,3 @@ user_groups:
   - Animators
 ---
 
-Scott Love is....
