@@ -1,5 +1,5 @@
 ---
-widget: conferences
+widget: github.scott-love.conferences
 headless: true  # This file represents a page section.
 
 # Put Your Section Options Here (title, background, etc.) ...
