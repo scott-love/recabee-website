@@ -3,7 +3,7 @@ widget: accomplishments
 headless: true  # This file represents a page section.
 
 # Put Your Section Options Here (title, background, etc.) ...
-title: My Experience
+title: Related conferences
 subtitle:
 weight: 40 # The position of section on page
 
@@ -17,9 +17,9 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with `>-`.
 item:
-  - organization: Coursera
+  - organization: SFECA
     organization_url: 'https://www.coursera.org'
-    title: Neural Networks and Deep Learning
+    title: 52ème Colloque de la Société Française pour l'Etude du Comportement Animal
     url: ''
     certificate_url: 'https://www.coursera.org'
     date_start: '2018-10-01'
