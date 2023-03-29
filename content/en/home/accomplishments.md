@@ -21,7 +21,7 @@ item:
     organization_url: 'http://fr.sfeca.info'
     title: 52ème Colloque de la Société Française pour l'Etude du Comportement Animal
     url: ''
-    certificate_url: 'https://sfecatours.sciencesconf.org/resource/page/id/5'
+    certificate_url: 'https://sfecatours.sciencesconf.org/resource/page/id/'
     date_start: '2023-23-05'
     date_end: '2023-25-05'
     description: ''
