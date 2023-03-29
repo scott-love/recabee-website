@@ -23,7 +23,7 @@ item:
     url: ''
     certificate_url: 'https://sfecatours.sciencesconf.org/resource/page/id/5'
     date_start: '2023-23-05'
-    date_end: '2023-23-05'
+    date_end: '2023-25-05'
     description: ''
   - organization: edX
     organization_url: 'https://www.edx.org'
