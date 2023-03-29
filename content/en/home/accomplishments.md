@@ -5,7 +5,7 @@ headless: true  # This file represents a page section.
 # Put Your Section Options Here (title, background, etc.) ...
 title: My Experience
 subtitle:
-weight: 10 # The position of section on page
+weight: 40 # The position of section on page
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
@@ -42,4 +42,4 @@ item:
     date_start: '2017-07-01'
     date_end: '2017-12-21'
     description: ''
-    ---
+---
