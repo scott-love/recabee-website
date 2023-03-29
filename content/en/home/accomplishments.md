@@ -18,12 +18,12 @@ date_format: Jan 2006
 #   Begin/end multi-line descriptions with `>-`.
 item:
   - organization: SFECA
-    organization_url: 'https://www.coursera.org'
+    organization_url: 'http://fr.sfeca.info'
     title: 52ème Colloque de la Société Française pour l'Etude du Comportement Animal
     url: ''
-    certificate_url: 'https://www.coursera.org'
-    date_start: '2018-10-01'
-    date_end: ''
+    certificate_url: 'https://sfecatours.sciencesconf.org/resource/page/id/5'
+    date_start: '2023-23-05'
+    date_end: '2023-23-05'
     description: ''
   - organization: edX
     organization_url: 'https://www.edx.org'
