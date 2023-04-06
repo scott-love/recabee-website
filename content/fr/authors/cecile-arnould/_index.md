@@ -1,23 +1,26 @@
 ---
 # Display name
-title: Ludovic Calandreau
+title: Cécile Arnould
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Researcher
+role: Ingénieure de recherche
 
 # Organizations/Affiliations
 organizations:
-  - name: INRAE
-    url: ''
+  - name: INRAE, UMR PRC
+    url: 'https://www6.val-de-loire.inrae.fr/physiologie_reproduction_comportements/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 interests:
-  - 
+  - ethologie
+  - émotions
+  - comportement social
+  - bien-être animal 
 
 #education:
 #  courses:
@@ -30,18 +33,18 @@ interests:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:test@example.org'
+#  - icon: envelope
+#    icon_pack: fas
+#    link: 'mailto:scott.love@inrae.fr'
 #  - icon: twitter
 #    icon_pack: fab
 #    link: https://twitter.com/love_a_scott
 #  - icon: google-scholar
 #    icon_pack: ai
-#    link: https://scholar.google.com/citations?user=0fWSo20AAAAJ&hl=fr
+#    link: https://scholar.google.com/citations?user=jiIfA5IAAAAJ
 #  - icon: orcid
 #    icon_pack: ai
-#    link: https://orcid.org/0000-0002-4518-5454
+#    link: https://orcid.org/0000-0001-7416-9210
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -59,7 +62,4 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Members
-  - Animators
 ---
-
-
