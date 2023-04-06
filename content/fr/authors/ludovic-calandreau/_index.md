@@ -6,15 +6,15 @@ title: Ludovic Calandreau
 superuser: false
 
 # Role/position
-role: Researcher
+role: Chargé de recherche
 
 # Organizations/Affiliations
 organizations:
-  - name: INRAE
+  - name: INRAE, UMR PRC
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include...
+bio: 
 
 interests:
   - 
