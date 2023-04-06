@@ -72,5 +72,5 @@ Mes projets :
 projet européen PPILOW https://www.ppilow.eu/ 
 Cost LIFT https://www.cost.eu/actions/CA21124/  
 Projet INRAE du métaprogramme SANBA : PANORAMA https://www6.inrae.fr/sanba/Thematiques/Par-axe-de-recherche/Les-filieres-et-territoires/PArticipative-desigN-to-enhance-OutdooR-Access-of-farM-Animals-PANORAMA  
-projet ANR Happysmelling: « Programmation gestationnelle des comportements médiés par l’olfaction suite à un enrichissement olfactif »
+projet ANR Happysmelling: « Programmation gestationnelle des comportements médiés par l’olfaction suite à un enrichissement olfactif »  
 projet WAIT 4 https://www6.rennes.inrae.fr/pegase/Actualites/Programme-de-recherche/2023.01.24-projet-Wait4
