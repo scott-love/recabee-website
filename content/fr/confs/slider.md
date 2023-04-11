@@ -16,7 +16,7 @@ design:
 content:
   slides:
     - title: 52ème Colloque de la Société Française pour l'Etude du Comportement
-      content:
+      content: du 23 au 25 mai 2023
       align: center
       background:
         position: center
@@ -25,8 +25,6 @@ content:
         media: sfeca.jpg
         fit: cover
       link:
-        icon: graduation-cap
-        icon_pack: fas
         text: Conference website
         url: 'https://sfecatours.sciencesconf.org'
 ---
