@@ -22,8 +22,8 @@ experience:
     company_url: 'https://sfecatours.sciencesconf.org'
     #company_logo: my-logo  # Optional logo
     location: 'Tours, France'
-    date_start: '2023-05-23'
-    date_end: '2023-05-25'
+    date_start: '2023-23-05'
+    date_end: '2023-23-05'
     description: >-
         52ème Colloque de la Société Française pour l'Etude du Comportement Animal
                 
