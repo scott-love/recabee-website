@@ -25,8 +25,8 @@ content:
         media: sfeca.jpg
         fit: cover
       link:
-        icon: browser
-        icon_pack: fa
+        icon: graduation-cap
+        icon_pack: fas
         text: Conference website
         url: 'https://sfecatours.sciencesconf.org'
 ---
