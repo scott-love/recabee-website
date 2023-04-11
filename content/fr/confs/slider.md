@@ -22,5 +22,4 @@ content:
         position: right
         color: '#666'
         brightness: 0.7
-        media: contact.jpg
 ---
