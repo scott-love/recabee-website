@@ -1,6 +1,6 @@
 ---
 # Replace <USERNAME> and <BLOCK-NAME> with your GitHub username and block name, respectively.
-widget: 'github.scott-love.conferences'
+widget: 'github.scott-love.wowchemy-bloc-conferences'
 
 # This file represents a page section.
 headless: true
