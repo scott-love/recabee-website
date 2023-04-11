@@ -15,18 +15,16 @@ design:
 
 content:
   slides:
-    - title: 👋 Welcome to the group
-      content: Take a look at what we're working on...
+    - title: 52ème Colloque de la Société Française pour l'Etude du Comportement
+      content:
       align: center
       background:
         position: right
         color: '#666'
         brightness: 0.7
         media: sfeca.jpg
-        fit: contain
+        fit: cover
       link:
-        icon: graduation-cap
-        icon_pack: fas
-        text: Join Us
-        url: ../contact/
+        text: SFECA website
+        url: 'https://sfecatours.sciencesconf.org'
 ---
