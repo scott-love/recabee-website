@@ -22,6 +22,7 @@ content:
         position: right
         color: '#666'
         brightness: 0.7
+        media: sfeca.jpg
       link:
         icon: graduation-cap
         icon_pack: fas
