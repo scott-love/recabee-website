@@ -17,7 +17,12 @@ organizations:
 bio: 
 
 interests:
-
+  - comportement
+  - bien-être
+  - santé
+  - emotions
+  - cognition
+  - numérique
 
 #education:
 #  courses:

@@ -20,7 +20,7 @@ interests:
   - neuroimaging
   - cognitive neuroscience
   - social perception
-
+  
 #education:
 #  courses:
 #    - course: PhD in Artificial Intelligence

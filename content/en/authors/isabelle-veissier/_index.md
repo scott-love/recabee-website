@@ -17,7 +17,11 @@ organizations:
 bio: 
 
 interests:
-
+  - behavior
+  - welfare
+  - health
+  - emotion
+  - cognition
 
 #education:
 #  courses:
