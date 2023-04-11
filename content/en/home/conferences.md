@@ -6,9 +6,8 @@ widget: 'github.scott-love.conferences'
 headless: true
 
 # Order that this section appears on the page.
-weight: 1
-
-title: Conferences
+weight: 40
+title: conferences
 subtitle: ''
       text: ''
       # Date format: https://wowchemy.com/docs/customization/#date-format
