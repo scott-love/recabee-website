@@ -19,11 +19,11 @@ content:
       content:
       align: center
       background:
-        position: right
+        position: center
         color: '#666'
         brightness: 0.7
         media: sfeca.jpg
-        fit: cover
+        fit: contain
       link:
         text: SFECA website
         url: 'https://sfecatours.sciencesconf.org'
