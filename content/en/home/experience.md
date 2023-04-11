@@ -5,7 +5,7 @@ headless: true  # This file represents a page section.
 # Put Your Section Options Here (title, background, etc.) ...
 title: My Experience
 subtitle:
-weight: 10 # The position of section on page
+weight: 30 # The position of section on page
 
 # Date format
 #   Refer to https://wowchemy.com/docs/getting-started/customization/#date-format
@@ -31,12 +31,4 @@ experience:
         * Modelling
         * Deploying
                 
-  - title: 'Professor'
-    company: 'University X'
-    company_url: ''
-    #company_logo: my-logo  # Optional logo
-    location: 'California'
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: 'Taught electronic engineering and researched semiconductor physics.'
 ---
