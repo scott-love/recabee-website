@@ -17,7 +17,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with `>-`.
 experience:
-  - title: '52ème Colloque de la Société Française pour l'Etude du Comportement Animal'
+  - title: '52ème'
     company: 'SFECA'
     company_url: ''
     #company_logo: my-logo  # Optional logo
