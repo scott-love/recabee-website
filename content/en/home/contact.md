@@ -3,7 +3,7 @@ widget: contact
 headless: true  # This file represents a page section.
 
 # Put Your Section Options Here (title, background, etc.) ...
-title: Contact Me
+title: Contact RECABEE
 subtitle: ''
 weight: 40
 
@@ -18,10 +18,10 @@ content:
       id:
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+      captcha: true
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
+#  email: test@example.org
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
