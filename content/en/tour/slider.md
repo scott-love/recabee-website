@@ -22,5 +22,5 @@ design:
         position: right
         color: '#666'
         brightness: 0.7
-        medi: contact.jpg
+        media: contact.jpg
 ---
