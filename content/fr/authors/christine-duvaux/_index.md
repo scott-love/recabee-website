@@ -6,7 +6,7 @@ title: Christine Duvaux-Ponter
 superuser: false
 
 # Role/position
-role: Professor
+role: Professeure
 
 # Organizations/Affiliations
 organizations:
