@@ -26,7 +26,7 @@ content:
         fit: cover
       link:
         icon: browser
-        icon_pack: fas
+        icon_pack: fa
         text: Conference website
         url: 'https://sfecatours.sciencesconf.org'
 ---
