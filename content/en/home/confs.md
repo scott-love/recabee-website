@@ -18,7 +18,7 @@ date_format: Jan 2006
 #   Begin/end multi-line descriptions with `>-`.
 experience:
   - title: '52ème colloque de la SFECA'
-    company: 'SFECA'
+    company: 'Société Française pour l'Etude du Comportement Animal'
     company_url: ''
     #company_logo: my-logo  # Optional logo
     location: 'California'
