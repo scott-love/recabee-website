@@ -19,7 +19,7 @@ date_format: Jan 2006
 experience:
   - title: 'SFECA'
     company: '52ème Colloque de la Société Française pour l'Etude du Comportement Animal'
-    company_url: ''
+    company_url: 'https://sfecatours.sciencesconf.org'
     #company_logo: my-logo  # Optional logo
     location: 'Tours'
     date_start: '2023-05-23'
