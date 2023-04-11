@@ -15,12 +15,16 @@ design:
 
 content:
   slides:
-    - title: 👋 Welcome to the group
-      content: Take a look at what we're working on...
+    - title: 52nd Conference of the French Society for the Study of Animal Behavior
+      content: 23 to 25 May 2023
       align: center
       background:
-        position: right
+        position: center
         color: '#666'
-        brightness: 0.7
-        media: contact.jpg
+        brightness: 0.5
+        media: sfeca.jpg
+        fit: cover
+      link:
+        text: conference website
+        url: 'https://sfecatours.sciencesconf.org'
 ---

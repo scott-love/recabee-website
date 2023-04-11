@@ -25,6 +25,6 @@ content:
         media: sfeca.jpg
         fit: cover
       link:
-        text: Conference website
+        text: site web de la conférence
         url: 'https://sfecatours.sciencesconf.org'
 ---
