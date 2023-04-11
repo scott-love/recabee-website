@@ -18,11 +18,11 @@ date_format: Jan 2006
 #   Begin/end multi-line descriptions with `>-`.
 experience:
   - title: '52ème colloque de la SFECA'
-    company: 'Société Française'
-    company_url: ''
+    company: 'SFECA'
+    company_url: 'https://sfecatours.sciencesconf.org'
     #company_logo: my-logo  # Optional logo
-    location: 'California'
-    date_start: '2017-01-01'
+    location: 'Tours, France'
+    date_start: '2023-05-23'
     date_end: ''
     description: >-
         Responsibilities include:
