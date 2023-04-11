@@ -22,4 +22,9 @@ content:
         position: right
         color: '#666'
         brightness: 0.7
+      link:
+        icon: graduation-cap
+        icon_pack: fas
+        text: Join Us
+        url: ../contact/
 ---
