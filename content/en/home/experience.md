@@ -3,7 +3,7 @@ widget: experience
 headless: true  # This file represents a page section.
 
 # Put Your Section Options Here (title, background, etc.) ...
-title: Related Conferences
+title: My Experience
 subtitle:
 weight: 30 # The position of section on page
 
@@ -17,13 +17,13 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with `>-`.
 experience:
-  - title: 'SFECA'
-    company: '52ème Colloque de la Société Française pour l'Etude du Comportement Animal'
-    company_url: 'https://sfecatours.sciencesconf.org'
+  - title: 'CEO'
+    company: 'GenCoin'
+    company_url: ''
     #company_logo: my-logo  # Optional logo
     location: 'California'
-    date_start: '2023-23-05'
-    date_end: '2023-25-05'
+    date_start: '2017-01-01'
+    date_end: ''
     description: >-
         Responsibilities include:
         
