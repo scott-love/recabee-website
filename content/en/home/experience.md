@@ -3,7 +3,7 @@ widget: experience
 headless: true  # This file represents a page section.
 
 # Put Your Section Options Here (title, background, etc.) ...
-title: My Experience
+title: Related Conferences
 subtitle:
 weight: 30 # The position of section on page
 
@@ -21,9 +21,9 @@ experience:
     company: '52ème Colloque de la Société Française pour l'Etude du Comportement Animal'
     company_url: 'https://sfecatours.sciencesconf.org'
     #company_logo: my-logo  # Optional logo
-    location: 'Tours'
-    date_start: '2023-05-23'
-    date_end: '2023-05-25'
+    location: 'California'
+    date_start: '2023-23-05'
+    date_end: '2023-25-05'
     description: >-
         Responsibilities include:
         
