@@ -17,13 +17,13 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with `>-`.
 experience:
-  - title: 'CEO'
-    company: 'GenCoin'
+  - title: 'SFECA'
+    company: '52ème Colloque de la Société Française pour l'Etude du Comportement Animal'
     company_url: ''
     #company_logo: my-logo  # Optional logo
-    location: 'California'
-    date_start: '2017-01-01'
-    date_end: ''
+    location: 'Tours'
+    date_start: '2023-05-23'
+    date_end: '2023-05-25'
     description: >-
         Responsibilities include:
         
