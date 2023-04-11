@@ -10,7 +10,7 @@ main:
   - name: Membres
     url: people
     weight: 20
-  - name: Confrences
-    url: confs
+  - name: Tour
+    url: tour
     weight: 30
   
