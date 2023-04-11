@@ -18,7 +18,7 @@ bio:
 
 interests:
   - cognition
-  - ethologyie
+  - ethologie
   - bien-être animal
   - oiseaux domestiques
   
