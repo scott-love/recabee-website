@@ -9,7 +9,7 @@ weight: 30 # The position of section on page
 
 # Date format
 #   Refer to https://wowchemy.com/docs/getting-started/customization/#date-format
-date_format: 01 Jan 2006
+date_format: Jan-02-06
 
 # Experiences.
 #   Add/remove as many `experience` blocks below as you like.
@@ -22,8 +22,8 @@ experience:
     company_url: 'https://sfecatours.sciencesconf.org'
     #company_logo: my-logo  # Optional logo
     location: 'Tours, France'
-    date_start: '2023-23-05'
-    date_end: '2023-23-05'
+    date_start: '2023-05-23'
+    date_end: '2023-05-25'
     description: >-
         52ème Colloque de la Société Française pour l'Etude du Comportement Animal
                 
