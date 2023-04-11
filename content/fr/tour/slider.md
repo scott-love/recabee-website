@@ -22,5 +22,5 @@ content:
         position: right
         color: '#666'
         brightness: 0.7
-        media: coders.jpg
+        media: contact.jpg
 ---
