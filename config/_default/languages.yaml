@@ -23,3 +23,6 @@ en:
       - name: Members
         url: people
         weight: 20
+      - name: Conferences
+        url: confs
+        weight: 30
