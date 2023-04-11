@@ -9,7 +9,7 @@ weight: 30 # The position of section on page
 
 # Date format
 #   Refer to https://wowchemy.com/docs/getting-started/customization/#date-format
-date_format: Jan 2006
+date_format: 01 Jan 2006
 
 # Experiences.
 #   Add/remove as many `experience` blocks below as you like.
