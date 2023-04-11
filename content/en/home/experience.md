@@ -20,7 +20,7 @@ experience:
   - title: 'CEO'
     company: 'GenCoin'
     company_url: ''
-    company_logo: my-logo  # Optional logo
+    #company_logo: my-logo  # Optional logo
     location: 'California'
     date_start: '2017-01-01'
     date_end: ''
@@ -34,7 +34,7 @@ experience:
   - title: 'Professor'
     company: 'University X'
     company_url: ''
-    company_logo: my-logo  # Optional logo
+    #company_logo: my-logo  # Optional logo
     location: 'California'
     date_start: '2016-01-01'
     date_end: '2016-12-31'
