@@ -46,7 +46,7 @@ content:
         position: center
         color: '#666'
         brightness: 0.5
-        media: isaelogo.png
+        media: isaelogo.jpg
         fit: cover
       link:
         text: conference website
