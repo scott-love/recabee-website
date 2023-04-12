@@ -51,4 +51,16 @@ content:
       link:
         text: conference website
         url: 'https://isae2023.ee'
+    - title: The Joint International Congress on Animal Science
+      content: 26 August to 1 September 2023 in Lyon, France
+      align: center
+      background:
+        position: center
+        color: '#666'
+        brightness: 0.7
+        media: logo-eaap2023.png
+        fit: cover
+      link:
+        text: conference website
+        url: 'https://eaap2023.org'
 ---
