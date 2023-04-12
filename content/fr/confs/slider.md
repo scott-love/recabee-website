@@ -13,7 +13,7 @@ design:
   # Duration of transition between slides (in ms)
   interval: 2000
 
-content: This is a test
+content:
   slides:
     - title: 52ème Colloque de la Société Française pour l'Etude du Comportement
       content: du 23 au 25 mai 2023 à Tours, France
