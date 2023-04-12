@@ -45,7 +45,7 @@ content:
       background:
         position: center
         color: '#666'
-        brightness: 0.7
+        brightness: 0.6
         media: isealogo.jpg
         fit: cover
       link:
@@ -57,7 +57,7 @@ content:
       background:
         position: center
         color: '#666'
-        brightness: 0.7
+        brightness: 0.6
         media: logoeaap.png
         fit: cover
       link:
