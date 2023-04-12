@@ -58,7 +58,7 @@ content:
         position: center
         color: '#666'
         brightness: 0.7
-        media: logo-eaap2023.png
+        media: Logo-eaap2023.png
         fit: cover
       link:
         text: conference website
