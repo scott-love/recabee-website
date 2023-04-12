@@ -6,7 +6,7 @@ title: Lydiane Aubé
 superuser: false
 
 # Role/position
-role: Research engineer
+role: Research Engineer
 
 # Organizations/Affiliations
 organizations:
