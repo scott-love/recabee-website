@@ -31,7 +31,7 @@ content:
       content: 12 to 15 April 2023
       align: center
       background:
-        position: right
+        position: center
         color: '#666'
         brightness: 0.5
         media: ccslogo.png
@@ -39,4 +39,16 @@ content:
       link:
         text: conference website
         url: 'https://comparativecognition.org/conference.php'
+    - title: The 56" Congress of the International Society for Applied Ethology
+      content: 1 to 5 August 2023
+      align: center
+      background:
+        position: center
+        color: '#666'
+        brightness: 0.5
+        media: isaelogo.png
+        fit: cover
+      link:
+        text: conference website
+        url: 'https://isae2023.ee'
 ---
