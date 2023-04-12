@@ -16,7 +16,7 @@ design:
 content:
   slides:
     - title: The 52nd Conference of the French Society for the Study of Animal Behavior
-      content: 23 to 25 May 2023
+      content: 23 to 25 May 2023 in Tours, France
       align: center
       background:
         position: center
@@ -40,7 +40,7 @@ content:
         text: conference website
         url: 'https://comparativecognition.org/conference.php'
     - title: The 56" Congress of the International Society for Applied Ethology
-      content: 1 to 5 August 2023
+      content: 1 to 5 August 2023 in Tallinn, Estonia
       align: center
       background:
         position: center
