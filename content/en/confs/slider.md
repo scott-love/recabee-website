@@ -29,7 +29,7 @@ content:
         url: 'https://sfecatours.sciencesconf.org'
     - title: The 30th International Conference on Comparative Cognition
       content: 12 to 15 April 2023
-      align: left
+      align: right
       background:
         position: center
         color: '#666'
