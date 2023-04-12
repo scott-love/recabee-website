@@ -39,13 +39,13 @@ content:
       link:
         text: conference website
         url: 'https://comparativecognition.org/conference.php'
-    - title: The 56" Congress of the International Society for Applied Ethology
+    - title: The 56th Congress of the International Society for Applied Ethology
       content: 1 to 5 August 2023 in Tallinn, Estonia
       align: center
       background:
         position: center
         color: '#666'
-        brightness: 0.5
+        brightness: 0.7
         media: isaelogo.jpg
         fit: cover
       link:
