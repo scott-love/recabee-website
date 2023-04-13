@@ -16,7 +16,7 @@ summary: Le quatrième séminaire RECABEE où nous discuterons de la création d
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-06-29T10:000:00Z'
+date: '2023-06-29T10:00:00Z'
 date_end: '2023-06-29T16:00:00Z'
 all_day: false
 
