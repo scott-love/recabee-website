@@ -1,5 +1,5 @@
 ---
-title: Séminaire en présentiel
+title: Séminaire en présentiel - "projets"
 
 event: RECABEE Séminaire
 event_url: 
