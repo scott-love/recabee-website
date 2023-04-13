@@ -18,8 +18,8 @@ bio:
 
 interests:
   - cognition
-  - bien-être animal
-  - poisson
+  - animal welfare
+  - fish
   
 #education:
 #  courses:
