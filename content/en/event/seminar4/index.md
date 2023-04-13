@@ -50,4 +50,4 @@ slides: ""
 projects: []
 ---
 
-TheThe fourth RECABEE seminar where we will discuss creating projects.
+The fourth RECABEE seminar where we will discuss creating projects.
