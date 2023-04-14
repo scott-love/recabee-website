@@ -3,10 +3,10 @@ name = "my_theme"
 
 [light]
   # Primary
-  primary = "#423089"
+  primary = "#275662"
 
   # Menu
-  menu_primary = "#423089"
+  menu_primary = "#275662"
   menu_text = "#fff"
   menu_text_active = "#ed6e6c"
   menu_title = "#fff"
