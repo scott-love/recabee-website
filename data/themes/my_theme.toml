@@ -1,9 +1,9 @@
 # Theme metadata
-name = "Minimal"
+name = "my_theme"
 
 [light]
   # Primary
-  primary = "#1565c0"
+  primary = "#423089"
 
   # Menu
   menu_primary = "#fff"
