@@ -11,7 +11,7 @@ role: Researcher
 # Organizations/Affiliations
 organizations:
   - name: INRAE, UMR BOA
-    url: 'https://www6.val-de-loire.inrae.fr/boa/​'
+    url: 'https://www6.val-de-loire.inrae.fr/boa'
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
