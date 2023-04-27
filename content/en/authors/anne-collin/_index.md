@@ -63,11 +63,11 @@ highlight_name: false
 user_groups:
   - Members
 ---
-Diploma : 
-Agronomic engineer​ and PhD in Biology and Agronomy (ENSAR, France)
-Habilitation to supervise research (University of Tours, France)
+Diploma :   
+Agronomic engineer​ and PhD in Biology and Agronomy (ENSAR, France)  
+Habilitation to supervise research (University of Tours, France)  
 
-Activities:
-Research aimed at improving thermotolerance and robustness in chicken through early life management (incubation conditions, hatching and early nutrition practices…), and at deciphering the underlying mechanisms. 
-Coordinator of the EU-funded H2020 [PPILOW project](https://www.ppilow.eu) (Poultry and Pig Low-input and Organic production systems’ Welfare, 2019-2024; #816172).
+Activities:  
+Research aimed at improving thermotolerance and robustness in chicken through early life management (incubation conditions, hatching and early nutrition practices…), and at deciphering the underlying mechanisms.   
+Coordinator of the EU-funded H2020 [PPILOW project](https://www.ppilow.eu) (Poultry and Pig Low-input and Organic production systems’ Welfare, 2019-2024; #816172).  
 INRAE Representative at the World Bank-funded Regional Center of Excellence ​in Avian Sciences (University of Lomé, Togo)

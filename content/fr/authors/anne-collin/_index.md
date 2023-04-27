@@ -64,11 +64,11 @@ user_groups:
   - Members
 ---
 
-Diplômes : 
-Ingénieur agronome et Docteur en Biologie et Agronomie de l'ENSAR
-Habilitation à Diriger des Recherches de l'Université de Tours
+Diplômes :   
+Ingénieur agronome et Docteur en Biologie et Agronomie de l'ENSAR  
+Habilitation à Diriger des Recherches de l'Université de Tours  
 
-Activités:
-Recherches visant à améliorer la thermotolérance et la robustesse chez le poulet par les conditions d'élevage précoce (conditions d'incubation, pratiques d'éclosion et de nutrition périnatale...), et à identifier les mécanismes sous-jacents. 
-Coordination du projet H2020 [PPILOW](https://www.ppilow.eu) (2019-2024), financé par l'Union Européenne (#816172), qui propose des innovations pour améliorer le bien-être des porcs et volailles en systèmes biologiques et de plein air.
+Activités:  
+Recherches visant à améliorer la thermotolérance et la robustesse chez le poulet par les conditions d'élevage précoce (conditions d'incubation, pratiques d'éclosion et de nutrition périnatale...), et à identifier les mécanismes sous-jacents.   
+Coordination du projet H2020 [PPILOW](https://www.ppilow.eu) (2019-2024), financé par l'Union Européenne (#816172), qui propose des innovations pour améliorer le bien-être des porcs et volailles en systèmes biologiques et de plein air.  
 Représentante INRAE au Centre d'Excellence Régional en Sciences Aviaires financé par la Banque Mondiale (Université de Lomé, Togo)
