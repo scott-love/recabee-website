@@ -12,7 +12,7 @@ location: Online via Zoom
 #  postcode: '94305'
 #  country: United States
 
-summary: The first RECABEE webinar where we discussed...
+summary: The first RECABEE webinar.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -50,4 +50,4 @@ slides: ""
 projects: []
 ---
 
-The first RECABEE webinar where we discussed...
+The first RECABEE webinar.
