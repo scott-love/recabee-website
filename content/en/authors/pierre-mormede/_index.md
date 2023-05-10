@@ -1,26 +1,26 @@
 ---
 # Display name
-title: Violaine Colson
+title: Pierre Mormede
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Ingénieure de recherche
+role: Researcher Emeritus
 
 # Organizations/Affiliations
 organizations:
-  - name: INRAE, UR LPGP
-    url: 'https://lpgp.rennes.hub.inrae.fr/'
+  - name: INRAE, département de génétique animale
+    url: 
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 interests:
-  - cognition
-  - bien-être animal
-  - poisson
-  
+  - stress
+  - behaviour
+  - animal welfare
+  - ethics
   
 #education:
 #  courses:
@@ -35,7 +35,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:violaine.colson@inrae.fr'
+    link: 'mailto:pierre.mormede@inrae.fr'
 #  - icon: twitter
 #    icon_pack: fab
 #    link: https://twitter.com/love_a_scott
@@ -44,7 +44,7 @@ social:
 #    link: https://scholar.google.com/citations?user=jiIfA5IAAAAJ
   - icon: orcid
     icon_pack: ai
-    link: https://orcid.org/0000-0003-0934-7935
+    link: https://orcid.org/0000-0003-0345-1432
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -63,3 +63,4 @@ highlight_name: false
 user_groups:
   - Members
 ---
+Pierre Mormede, dr.vet. (Alfort 72, Créteil 74), dr.univ. (Toulouse 78). Carrière de recherche à l’INRA sur le thème du stress (neuroendocrinologie, neurobiologie, comportement, génétique) chez le rat comme espèce modèle et le porc comme espèce d’élevage. Directeur de recherche émérite. Membre de l’Académie vétérinaire de France. Expert Anses santé et bien-être des animaux. Participation à la création du CNR BEA (2017-19), président du CNREEA (Comité national de réflexion éthique sur l’expérimentation animale, depuis 2019).

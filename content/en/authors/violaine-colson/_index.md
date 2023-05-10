@@ -6,7 +6,7 @@ title: Violaine Colson
 superuser: false
 
 # Role/position
-role: Ingénieure de recherche
+role: Research Engineer
 
 # Organizations/Affiliations
 organizations:
