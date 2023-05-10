@@ -27,5 +27,5 @@ en:
         url: confs
         weight: 30
       - name: Contact
-        url: contact
+        url: home/contact
         weight: 40
