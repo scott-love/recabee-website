@@ -13,4 +13,7 @@ main:
   - name: Conférences
     url: confs
     weight: 30
+  - name: Contact
+    url: contact
+    weight: 40
   
