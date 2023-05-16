@@ -18,6 +18,7 @@ content:
   user_groups:
     - Animators
     - Members
+    - Invited Members
 design:
   show_interests: false
   show_role: true
