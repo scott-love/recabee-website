@@ -6,7 +6,7 @@ title: Angelique Favreau
 superuser: false
 
 # Role/position
-role: Researcher
+role: 
 
 # Organizations/Affiliations
 organizations:
