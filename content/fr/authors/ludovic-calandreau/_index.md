@@ -6,7 +6,7 @@ title: Ludovic Calandreau
 superuser: false
 
 # Role/position
-role: Chargé de recherche
+role: Directeur de recherche
 
 # Organizations/Affiliations
 organizations:

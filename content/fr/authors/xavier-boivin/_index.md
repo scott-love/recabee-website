@@ -6,7 +6,7 @@ title: Xavier Boivin
 superuser: false
 
 # Role/position
-role: Researcher
+role: Directeur de recherche
 
 # Organizations/Affiliations
 organizations:
