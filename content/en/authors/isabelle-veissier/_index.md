@@ -10,7 +10,7 @@ role: Researcher
 
 # Organizations/Affiliations
 organizations:
-  - name: NRAE, Université Clermont Auvergne
+  - name: INRAE, Université Clermont Auvergne
     url: 
 
 # Short bio (displayed in user profile at end of posts)
