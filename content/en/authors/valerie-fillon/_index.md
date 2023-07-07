@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Vaérie Fillon
+title: Valérie Fillon
 
 # Is this the primary user of the site?
 superuser: false
