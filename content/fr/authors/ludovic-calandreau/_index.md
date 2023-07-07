@@ -11,13 +11,17 @@ role: Directeur de recherche
 # Organizations/Affiliations
 organizations:
   - name: INRAE, UMR PRC
-    url: ''
+    url: 'https://www6.val-de-loire.inrae.fr/umrprc-ethologie-cognition/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 interests:
-  - 
+  - cognition
+  - apprentissage et mémoire
+  - emotions
+  - bien-être animal
+  - neurobiologie
 
 #education:
 #  courses:
@@ -32,7 +36,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'ludovic.calandreau@inrae.fr'
 #  - icon: twitter
 #    icon_pack: fab
 #    link: https://twitter.com/love_a_scott

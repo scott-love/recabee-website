@@ -11,13 +11,17 @@ role: Researcher
 # Organizations/Affiliations
 organizations:
   - name: INRAE
-    url: ''
+    url: 'https://www6.val-de-loire.inrae.fr/umrprc-ethologie-cognition/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 interests:
-  - 
+  - cognition
+  - learning & memory
+  - emotion
+  - animal welfare
+  - neurobiology
 
 #education:
 #  courses:
@@ -32,10 +36,10 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-#  - icon: twitter
-#    icon_pack: fab
-#    link: https://twitter.com/love_a_scott
+    link: 'ludovic.calandreau@inrae.fr'
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/EquipeCEB
 #  - icon: google-scholar
 #    icon_pack: ai
 #    link: https://scholar.google.com/citations?user=0fWSo20AAAAJ&hl=fr
