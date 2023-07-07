@@ -20,7 +20,7 @@ interests:
   - intention
   - cognition
   - bien-être animal
-  - epistemolépistémologieogy
+  - épistémologie
   - interdisciplinarité
 
   
