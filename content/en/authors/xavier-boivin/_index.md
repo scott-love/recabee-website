@@ -18,7 +18,7 @@ organizations:
 bio: 
 
 interests:
-  - 
+  - human-animal relationship
 
 #education:
 #  courses:
