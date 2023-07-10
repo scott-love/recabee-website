@@ -14,7 +14,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include...
+bio:
 
 interests:
   - 
@@ -32,7 +32,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'mailto:xavier.boivin@inrae.fr'
 #  - icon: twitter
 #    icon_pack: fab
 #    link: https://twitter.com/love_a_scott
