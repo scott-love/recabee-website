@@ -10,8 +10,9 @@ role: Researcher
 
 # Organizations/Affiliations
 organizations:
-  - name: INRAE
-    url: ''
+  - name: INRAE, UMR1213 Herbivores
+    url: 'https://umrh-bioinfo.clermont.inrae.fr/Intranet/web/UMRH'
+
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
