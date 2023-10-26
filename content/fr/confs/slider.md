@@ -15,20 +15,8 @@ design:
 
 content:
   slides:
-    - title: 52ème Colloque de la Société Française pour l'Etude du Comportement
-      content: du 23 au 25 mai 2023 à Tours, France
-      align: center
-      background:
-        position: center
-        color: '#666'
-        brightness: 0.5
-        media: sfeca.jpg
-        fit: cover
-      link:
-        text: site web de la conférence
-        url: 'https://sfecatours.sciencesconf.org'
-    - title: La 30ème Conférence Internationale sur la Cognition Comparée
-      content: du 12 au 15 Avril 2023
+    - title: La 31ème Conférence Internationale sur la Cognition Comparée
+      content: du 10 au 13 Avril 2023 à Albuquerque, New Mexico, USA
       align: center
       background:
         position: center
@@ -39,8 +27,8 @@ content:
       link:
         text: site web de la conférence
         url: 'https://comparativecognition.org/conference.php'
-    - title: Le 56ème Congrès de la Société Internationale d'Ethologie Appliquée
-      content: du 1 au 5 Août 2023 à Tallinn, Estonia
+    - title: Le 57ème Congrès de la Société Internationale d'Ethologie Appliquée
+      content: 22 to 26 Juillet 2024 à Curtiba, Brazil
       align: center
       background:
         position: center
@@ -50,7 +38,19 @@ content:
         fit: cover
       link:
         text: site web de la conférence
-        url: 'https://isae2023.ee'
+        url: 'https://www.isae2024brazil.com/'
+    - title: Big Team Science Conference
+      content: du 23 au 25 Octobre 2024
+      align: center
+      background:
+        position: center
+        color: '#666'
+        brightness: 0.6
+        media:
+        fit: cover
+      link:
+        text: site web de la conférence
+        url: 'https://bigteamscienceconference.github.io/'
     - title: Le Congrès International Conjoint sur la Science Animale
       content: du 26 Août au 1 Septembre 2023 à Lyon, France
       align: center
@@ -63,4 +63,16 @@ content:
       link:
         text: site web de la conférence
         url: 'https://eaap2023.org'
+     - title: 52ème Colloque de la Société Française pour l'Etude du Comportement
+      content: du 23 au 25 mai 2023 à Tours, France
+      align: center
+      background:
+        position: center
+        color: '#666'
+        brightness: 0.5
+        media: sfeca.jpg
+        fit: cover
+      link:
+        text: site web de la conférence
+        url: 'https://sfecatours.sciencesconf.org'
 ---
