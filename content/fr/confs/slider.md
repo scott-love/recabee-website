@@ -63,7 +63,7 @@ content:
       link:
         text: site web de la conférence
         url: 'https://eaap2023.org'
-     - title: 52ème Colloque de la Société Française pour l'Etude du Comportement
+    - title: 52ème Colloque de la Société Française pour l'Etude du Comportement
       content: du 23 au 25 mai 2023 à Tours, France
       align: center
       background:

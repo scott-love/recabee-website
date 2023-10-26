@@ -63,7 +63,7 @@ content:
       link:
         text: conference website
         url: 'https://eaap2023.org'
-     - title: The 52nd Conference of the French Society for the Study of Animal Behavior
+    - title: The 52nd Conference of the French Society for the Study of Animal Behavior
       content: 23 to 25 May 2023 in Tours, France
       align: center
       background:
