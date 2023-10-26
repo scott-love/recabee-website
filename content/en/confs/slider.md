@@ -46,7 +46,7 @@ content:
         position: center
         color: '#666'
         brightness: 0.6
-        media: logoeaap.png
+        media: 
         fit: cover
       link:
         text: conference website
