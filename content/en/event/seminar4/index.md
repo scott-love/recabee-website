@@ -12,7 +12,7 @@ location: INRAE Centre val de Loire, Nouzilly
 #  postcode: '94305'
 #  country: United States
 
-summary: The fourth RECABEE seminar where we will discuss creating projects.
+summary: The fourth RECABEE seminar where we discussed creating projects.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

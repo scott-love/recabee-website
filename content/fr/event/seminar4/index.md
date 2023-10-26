@@ -12,7 +12,7 @@ location: INRAE Centre val de Loire, Nouzilly
 #  postcode: '94305'
 #  country: United States
 
-summary: Le quatrième séminaire RECABEE où nous discuterons de la création de projets.
+summary: Le quatrième séminaire RECABEE où nous avons discuté de la création de projets.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
