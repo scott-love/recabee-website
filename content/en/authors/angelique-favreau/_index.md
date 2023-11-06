@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Angelique Favreau
+title: Angelique Favreau-Peigné
 
 # Is this the primary user of the site?
 superuser: false
