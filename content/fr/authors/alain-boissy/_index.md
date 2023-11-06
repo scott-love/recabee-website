@@ -11,7 +11,7 @@ role: Directeur de recherche
 # Organizations/Affiliations
 organizations:
   - name: INRAE, Université Cleremont, VAS
-    url: 'https://umrh-bioinfo.clermont.inrae.fr/Intranet/web/UMRH'
+    url: 'https://umrh-bioinfo.clermont.inrae.fr/Intranet/web/UMRH/fr/show/27'
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
