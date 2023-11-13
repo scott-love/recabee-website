@@ -38,7 +38,7 @@ social:
     link: 'mailto:valentin.brunet@inrae.fr'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/ValentinBrunet
+    link: https://twitter.com/ValentinBrunet_
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?hl=en&user=pMbkqjYAAAAJ
