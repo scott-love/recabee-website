@@ -16,7 +16,7 @@ design:
 content:
   slides:
     - title: La 31ème Conférence Internationale sur la Cognition Comparée
-      content: du 10 au 13 Avril 2023 à Albuquerque, New Mexico, USA
+      content: du 10 au 13 Avril 2024 à Albuquerque, New Mexico, USA
       align: center
       background:
         position: center
@@ -40,7 +40,7 @@ content:
         text: site web de la conférence
         url: 'https://www.isae2024brazil.com/'
     - title: Big Team Science Conference
-      content: du 23 au 25 Octobre 2024
+      content: du 23 au 25 Octobre 2023
       align: center
       background:
         position: center

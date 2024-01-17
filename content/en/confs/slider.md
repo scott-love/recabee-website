@@ -40,7 +40,7 @@ content:
         text: conference website
         url: 'https://www.isae2024brazil.com/'
     - title: Big Team Science Conference
-      content: 23 to 25 October 2024
+      content: 23 to 25 October 2023
       align: center
       background:
         position: center
