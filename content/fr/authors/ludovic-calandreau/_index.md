@@ -36,7 +36,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'ludovic.calandreau@inrae.fr'
+    link: 'mailto:ludovic.calandreau@inrae.fr'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/EquipeCEB
@@ -46,6 +46,10 @@ social:
   - icon: orcid
     icon_pack: ai
     link: https://orcid.org/0000-0002-7535-5733
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Ludovic-Calandreau
+
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
