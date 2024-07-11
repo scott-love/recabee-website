@@ -1,7 +1,7 @@
 ---
-title: Webinar 4 - "LIFT COST Action"
+title: Webinaire 4 - "LIFT COST Action"
 
-event: RECABEE Webinar 4
+event: RECABEE Webinaire 4
 event_url: 
 
 location: Online via Zoom
@@ -12,7 +12,7 @@ location: Online via Zoom
 #  postcode: '94305'
 #  country: United States
 
-summary: The fourth RECABEE webinar where we discussed the European network on positive animal welfare.
+summary: Le quatrième webinaire RECABEE a permis de discuter du réseau européen sur le bien-être animal positif.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -50,4 +50,4 @@ slides: ""
 projects: []
 ---
 
-The fourth RECABEE webinar where we discussed the European network on positive animal welfare.
+Le quatrième webinaire RECABEE a permis de discuter du réseau européen sur le bien-être animal positif.
