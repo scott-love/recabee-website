@@ -50,4 +50,4 @@ slides: ""
 projects: []
 ---
 
-Le quatrième webinaire RECABEE a permis de discuter du réseau européen sur le bien-être animal positif.
+Le quatrième webinaire RECABEE a permis de discuter du [réseau européen sur le bien-être animal positif](https://liftanimalwelfare.eu/).

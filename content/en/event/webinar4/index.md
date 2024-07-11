@@ -50,4 +50,4 @@ slides: ""
 projects: []
 ---
 
-The fourth RECABEE webinar where we discussed the European network on positive animal welfare.
+The fourth RECABEE webinar where we discussed the [European network on positive animal welfare](https://liftanimalwelfare.eu/).
