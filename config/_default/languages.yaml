@@ -23,7 +23,7 @@ en:
       - name: Members
         url: people
         weight: 20
-      - name: Conferences
+      - name: News
         url: confs
         weight: 30
       - name: Contact

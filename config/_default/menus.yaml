@@ -10,7 +10,7 @@ main:
   - name: Membres
     url: people
     weight: 20
-  - name: Conférences
+  - name: Actualité
     url: confs
     weight: 30
   - name: Contact
