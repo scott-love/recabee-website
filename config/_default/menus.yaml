@@ -16,6 +16,3 @@ main:
   - name: Publications
     url: publication
     weight: 40
-  - name: Contact
-    url: RECABEE/contact
-    weight: 50

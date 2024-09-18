@@ -15,7 +15,6 @@ sections:
         <br>
         
         The [INRAE](https://www.inrae.fr/) Farm Animal Cognition and Welfare network consists of the researchers, engineers, technicians and students of the [Departments PHASE](https://www.inrae.fr/departements/phase) and [GA](https://www.inrae.fr/departements/ga) who are interested in animal cognition, welfare and their interrelationship. Members of the network come from about 14 different research laboratories from all over France. They conduct research on a variety of farm animals including sheep, goats, cattle, horses, pigs, trout, poultry and insects. The main expectations of the network’s members are: 1) to think about the link between cognition and welfare; 2) to discuss the concepts and methods of both cognition and welfare research and; 3) to get to know better colleagues conducting research in these areas.
-  
   - block: collection
     content:
       title: Les derniers événements
@@ -55,7 +54,6 @@ sections:
         padding: ['20px', '0', '20px', '0']
       css_class: fullscreen
   - block: contact
-    id: contact
     content:
       title: Contact RECABEE
       email: recabee@inrae.fr
