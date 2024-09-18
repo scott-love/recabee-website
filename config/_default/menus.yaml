@@ -12,7 +12,7 @@ main:
     weight: 20
   - name: News
     identifier: news
-    #url: confs
+    url: confs
     weight: 30
   - name: Related Conferences
     parent: news
