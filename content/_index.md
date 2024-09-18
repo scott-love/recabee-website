@@ -18,10 +18,10 @@ sections:
   
   - block: collection
     content:
-      title: Latest News
+      title: Les derniers événements
       subtitle:
       text:
-      count: 5
+      count: 2
       filters:
         author: ''
         category: ''
@@ -30,7 +30,7 @@ sections:
         tag: ''
       offset: 0
       order: desc
-      page_type: post
+      page_type: event
     design:
       view: card
       columns: '1'
