@@ -57,4 +57,5 @@ sections:
   - block: contact
     content:
       title: Contact RECABEE
+      email: recabee@inrae.fr
 ---
