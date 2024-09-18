@@ -55,6 +55,7 @@ sections:
         padding: ['20px', '0', '20px', '0']
       css_class: fullscreen
   - block: contact
+    id: contact
     content:
       title: Contact RECABEE
       email: recabee@inrae.fr
