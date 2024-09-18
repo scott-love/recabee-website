@@ -59,4 +59,6 @@ sections:
       title: Contact RECABEE
       email: recabee@inrae.fr
       align: centre
+      # Automatically link email and phone or display as text?
+      autolink: true
 ---
