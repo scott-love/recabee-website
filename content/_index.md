@@ -73,12 +73,12 @@ sections:
       title:
       subtitle:
       text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+        {{% cta cta_link="./people/" cta_text="Meet the network →" %}}
     design:
       columns: '1'
       background:
         image: 
-          filename: coders.jpg
+          filename: frontcows.jpg
           filters:
             brightness: 1
           parallax: false
