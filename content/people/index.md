@@ -13,6 +13,7 @@ sections:
       user_groups:
           - Animators
           - Members
+          - Invited External Members
       sort_by: Params.last_name
       sort_ascending: true
     design:
