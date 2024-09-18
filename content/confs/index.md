@@ -44,6 +44,19 @@ sections:
         link:
           text: conference website
           url: 'https://bigteamscienceconference.github.io/'
+      - title: The Joint International Congress on Animal Science
+        content: 26 August to 1 September 2023 in Lyon, France
+        align: center
+        background:
+          image:
+            filename: logoeaap.png
+            filters:
+              brightness: 0.7
+          position: center
+          color: '#666'
+        link:
+          text: conference website
+          url: 'https://eaap2023.org'
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
