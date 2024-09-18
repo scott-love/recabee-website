@@ -58,4 +58,5 @@ sections:
     content:
       title: Contact RECABEE
       email: recabee@inrae.fr
+      align: centre
 ---
