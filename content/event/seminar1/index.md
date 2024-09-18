@@ -1,7 +1,7 @@
 ---
-title: Séminaire en présentiel - "projets"
+title: In person seminar - "projects"
 
-event: RECABEE Séminaire
+event: RECABEE Seminar
 event_url: 
 
 location: INRAE Centre val de Loire, Nouzilly
@@ -12,7 +12,7 @@ location: INRAE Centre val de Loire, Nouzilly
 #  postcode: '94305'
 #  country: United States
 
-summary: Le quatrième séminaire RECABEE où nous avons discuté de la création de projets.
+summary: The fourth RECABEE seminar where we discussed creating projects.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -50,4 +50,4 @@ slides: ""
 projects: []
 ---
 
-Le quatrième séminaire RECABEE où nous discuterons de la création de projets.
+The fourth RECABEE seminar where we will discuss creating projects.

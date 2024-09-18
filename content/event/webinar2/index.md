@@ -1,7 +1,7 @@
 ---
-title: Webinaire 2
+title: Webinar 2
 
-event: RECABEE Webinaire 2
+event: RECABEE Webinar 2
 event_url: 
 
 location: Online via Zoom
@@ -12,7 +12,7 @@ location: Online via Zoom
 #  postcode: '94305'
 #  country: United States
 
-summary: Le deuxième webinaire RECABEE où nous avons discuté...
+summary: The second RECABEE webinar where we discussed...
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -50,4 +50,4 @@ slides: ""
 projects: []
 ---
 
-Le deuxième webinaire RECABEE où nous avons discuté...
+The second RECABEE webinar where we discussed...
