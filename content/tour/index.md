@@ -34,21 +34,16 @@ sections:
         link:
         text: conference website
         url: 'https://www.isae2024brazil.com/'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
-        align: right
+      - title: Big Team Science Conference
+        content: '23 to 25 October 2023'
+        align: center
         background:
-          image:
-            filename: welcome.jpg
-            filters:
-              brightness: 0.5
           position: center
-          color: '#333'
+          color: '#666'
+          brightness: 0.6
         link:
-          icon: graduation-cap
-          icon_pack: fas
-          text: Join Us
-          url: ../contact/
+          text: conference website
+          url: 'https://bigteamscienceconference.github.io/'
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
