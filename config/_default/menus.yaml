@@ -10,18 +10,13 @@ main:
   - name: Events
     url: event
     weight: 20
-  - name: News
-    identifier: news
+  - name: Related Conferences
     url: confs
     weight: 30
-#  - name: Related Conferences
-#    parent: news
-#    url: confs
-#    weight: 10
-#- name: Publications
-#    parent: news
-#    url: confs
-#    weight: 20
+ - name: Publications
+    parent: publication
+    url: confs
+    weight: 40
   - name: Contact
     url: contact
     weight: 40
