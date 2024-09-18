@@ -13,8 +13,8 @@ main:
   - name: Related Conferences
     url: confs
     weight: 30
- - name: Publications
-    url: confs
+  - name: Publications
+    url: publication
     weight: 40
   - name: Contact
     url: contact
