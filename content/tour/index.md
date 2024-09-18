@@ -1,5 +1,5 @@
 ---
-title: Tour
+title: Related Conferences
 date: 2022-10-24
 
 type: landing
@@ -8,12 +8,12 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the group
-        content: Take a look at what we're working on...
+      - title: The 31st International Conference on Comparative Cognition
+        content: 10 to 13 April 2024 in Albuquerque, New Mexico, USA
         align: center
         background:
           image:
-            filename: coders.jpg
+            filename: ccslogo.png
             filters:
               brightness: 0.7
           position: right
