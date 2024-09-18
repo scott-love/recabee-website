@@ -54,4 +54,16 @@ sections:
       spacing:
         padding: ['20px', '0', '20px', '0']
       css_class: fullscreen
+  - block: contact
+      content:
+      # Put Your Section Options Here (title, background, etc.) ...
+      title: Contact RECABEE
+      subtitle: ''
+      # Automatically link email and phone or display as text?
+      autolink: true
+      # Contact details (edit or remove options as required)
+      email: recabee@inrae.fr
+    design:
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '1'
 ---
