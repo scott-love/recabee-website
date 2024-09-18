@@ -57,6 +57,19 @@ sections:
         link:
           text: conference website
           url: 'https://eaap2023.org'
+      - title: The 52nd Conference of the French Society for the Study of Animal Behavior
+        content: 23 to 25 May 2023 in Tours, France
+        align: center
+        background:
+          image:
+            filename: sfeca.jpg
+            filters:
+              brightness: 0.5
+          position: center
+          color: '#666'
+        link:
+          text: conference website
+          url: 'https://sfecatours.sciencesconf.org'
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
