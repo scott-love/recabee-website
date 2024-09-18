@@ -21,19 +21,19 @@ sections:
         link:
           text: conference website
           url: 'https://comparativecognition.org/conference.php'
-      #- title: The 57th Congress of the International Society for Applied Ethology
-      #  content: '22 to 26 July 2024 in Curtiba, Brazil'
-      #  align: center
-      #  background:
-      #    image:
-      #      filename: isealogo.jpg
-      #      filters:
-      #        brightness: 0.7
-      #    position: center
-      #    color: '#666'
-      #  link:
-      #    text: conference website
-      #    url: 'https://www.isae2024brazil.com/'
+      - title: The 57th Congress of the International Society for Applied Ethology
+        content: '22 to 26 July 2024 in Curtiba, Brazil'
+        align: center
+        background:
+          image:
+            filename: isealogo.jpg
+            filters:
+              brightness: 0.7
+          position: center
+          color: '#666'
+        link:
+          text: conference website
+          url: 'https://www.isae2024brazil.com/'
       #- title: Big Team Science Conference
       #  content: '23 to 25 October 2023'
       #  align: center
