@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title:
+title: RECABEE
 date: 2024-09-17
 type: landing
 
