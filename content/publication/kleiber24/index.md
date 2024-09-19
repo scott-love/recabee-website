@@ -1,7 +1,19 @@
 ---
 title: "Feeding predictability as a cognitive enrichment protects brain function and physiological status in rainbow trout: a multidisciplinary approach to assess fish welfare"
 authors:
-- Camille Pluchot
+- A. Kleiber
+- J. Roy
+- V. Brunet
+- E. Baranek
+- J.M. Le-Calvez
+- T. Kerneis
+- A. Batard
+- S. Calvez
+- L. Pineau
+- S. Milla
+- V. Guesdon
+- L. Calandreau
+- V. Colson
 
 author_notes:
 - ""
