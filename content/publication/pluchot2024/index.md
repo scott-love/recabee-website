@@ -36,6 +36,8 @@ tags:
 - "sheep"
 - "MRI"
 - "refinement"
+- "positive reinforcement"
+- "animal training"
 
 featured: true
 
@@ -55,7 +57,7 @@ url_video: 'https://zenodo.org/records/12636387'
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
 #  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
-#  focal_point: ""
+  focal_point: "centre"
   preview_only: true
 
 # Associated Projects (optional).
