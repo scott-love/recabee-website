@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Cécile Arnould
+username: cecile007
 
 # Is this the primary user of the site?
 superuser: false

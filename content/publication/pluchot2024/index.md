@@ -5,7 +5,7 @@ authors:
 - Hans Adriaensen
 - Céline Parias
 - Didier Dubreuil
-- Cécile Arnould
+- cecile007
 - Elodie Chaillou
 - Scott Love
 
@@ -34,7 +34,7 @@ summary: ""
 
 tags:
 - "sheep"
-- "mri"
+- "MRI"
 featured: true
 
 # links:
