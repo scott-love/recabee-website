@@ -1,5 +1,5 @@
 ---
-title: "Sheep (Ovis aries) training protocol for voluntary awake and unrestrained structural brain MRI acquisitions"
+title: "Horses can learn to identify joy and sadness against other basic emotions from human facial expressions"
 authors:
 - Plotine Jardat
 - Zoé Menard-Peroy
