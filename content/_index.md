@@ -44,7 +44,7 @@ sections:
         publication_type: 'article-journal'
     design:
       view: compact
-      columns: '1'
+      columns: '2'
   - block: markdown
     content:
       title:
@@ -52,7 +52,7 @@ sections:
       text: |
         {{% cta cta_link="./people/" cta_text="Meet the network →" %}}
     design:
-      columns: '2'
+      columns: '1'
       background:
         image: 
           filename: frontcows.jpg
