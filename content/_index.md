@@ -18,7 +18,7 @@ sections:
   - block: collection
     content:
       title: Latest Events
-      subtitle: Our online and in-person meetings
+      subtitle: online and in-person meetings
       text:
       count: 2
       filters:
@@ -32,6 +32,18 @@ sections:
       page_type: event
     design:
       view: card
+      columns: '1'
+  - block: collection
+    content:
+      title: Related publications from RECABEE members
+      text: ""
+      count: 4
+      filters:
+        folders:
+          - publication
+        publication_type: 'article'
+    design:
+      view: citation
       columns: '1'
   - block: markdown
     content:
