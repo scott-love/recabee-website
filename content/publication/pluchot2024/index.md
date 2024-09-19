@@ -9,6 +9,8 @@ authors:
 - Elodie Chaillou
 - Scott Love
 
+profile: false 
+
 author_notes:
 - ""
 date: "2024-05-28T12:18:50+01:00"
