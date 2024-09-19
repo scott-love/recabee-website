@@ -7,7 +7,7 @@ authors:
 - Didier Dubreuil
 - Cécile Arnould
 - Elodie Chaillou
-- Scott A. Love
+- Scott Love
 
 author_notes:
 - ""
