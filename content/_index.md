@@ -45,7 +45,7 @@ sections:
         publication_type: 'article-journal'
     design:
       view: compact
-      columns: '2'
+      columns: '1'
   - block: markdown
     content:
       title:
