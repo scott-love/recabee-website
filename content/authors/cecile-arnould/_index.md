@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Cecile Arnould
+title: Cécile Arnould
 
 # Is this the primary user of the site?
 superuser: false
