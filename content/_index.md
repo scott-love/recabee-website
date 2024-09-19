@@ -52,7 +52,7 @@ sections:
       text: |
         {{% cta cta_link="./people/" cta_text="Meet the network →" %}}
     design:
-      columns: '1'
+      columns: '2'
       background:
         image: 
           filename: frontcows.jpg
@@ -66,6 +66,7 @@ sections:
         padding: ['20px', '0', '20px', '0']
       css_class: fullscreen
   - block: contact
+    id: homecontact
     content:
       title: Contact RECABEE
       email: recabee@inrae.fr
