@@ -35,6 +35,8 @@ summary: ""
 tags:
 - "sheep"
 - "MRI"
+- "refinement"
+
 featured: true
 
 # links:
@@ -47,7 +49,7 @@ url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: ''
+url_video: 'https://zenodo.org/records/12636387'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
