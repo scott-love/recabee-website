@@ -35,9 +35,10 @@ sections:
       columns: '1'
   - block: collection
     content:
-      title: Related publications from RECABEE members
+      title: Related publications
+      subtitle: from RECABEE members
       text: ""
-      count: 4
+      count: 3
       filters:
         folders:
           - publication
