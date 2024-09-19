@@ -43,7 +43,7 @@ sections:
           - publication
         publication_type: 'article-journal'
     design:
-      view: showcase
+      view: compact
       columns: '1'
   - block: markdown
     content:
