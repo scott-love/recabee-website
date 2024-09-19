@@ -44,7 +44,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'https://www.sciencedirect.com/science/article/pii/S0376635724000962?via%3Dihub'
+url_pdf: 'https://www.sciencedirect.com/science/article/pii/S0376635724000962/pdfft?md5=4869edee356afb15282e228aff4f0f06&pid=1-s2.0-S0376635724000962-main.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
