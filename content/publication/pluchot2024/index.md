@@ -5,7 +5,7 @@ authors:
 - Hans Adriaensen
 - Céline Parias
 - Didier Dubreuil
-- cecile007
+- Cécile Arnould
 - Elodie Chaillou
 - Scott Love
 
