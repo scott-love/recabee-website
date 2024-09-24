@@ -81,7 +81,11 @@ sections:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
       background:
-        color: "#ed6e6c" 
+        #color: "#ed6e6c" 
+        gradient_start: '#FOCOBF'
+        gradient_end: '#ed6e6c'
+        # The gradient angle from 0-360 degrees
+        gradient_angle: 180
   - block: markdown
     content:
       title:
