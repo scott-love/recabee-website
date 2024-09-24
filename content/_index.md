@@ -80,6 +80,8 @@ sections:
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
+    background:
+      color: "#9ed6e3" 
   - block: markdown
     content:
       title:
