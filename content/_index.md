@@ -49,7 +49,7 @@ sections:
   - block: accomplishments
     content:
       title: Agenda
-      subtitle: 'related webinars, educational courses and conferences'
+      subtitle: 'Upcoming related webinars, educational courses and conferences'
       text: ''
       # Date format: https://wowchemy.com/docs/customization/#date-format
       date_format: 01 Jan 2006
@@ -68,14 +68,15 @@ sections:
           organization: SPACE
           organization_url: https://www.space.fr/
           url: ''
-        - title: Peer Community In Webinare
-          certificate_url: https://www.edx.org
+        - title: PCI Webinar Series
           date_end: ''
           date_start: '2024-09-19'
-          description: Reimagining scholarly publishing to promote credible and trustworthy research
+          description: >-
+            Reimagining scholarly publishing to promote credible and trustworthy research
+            by Brian Nosek (Center of Open Science)
           #icon: edx
           organization: Peer Community In
-          organization_url: https://peercommunityin.org/pci-webinar-series/
+          organization_url: https://peercommunityin.org/
           url: https://peercommunityin.org/pci-webinar-series/
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
