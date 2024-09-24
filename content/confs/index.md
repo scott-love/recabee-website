@@ -39,7 +39,7 @@ sections:
         align: center
         background:
           position: center
-          color: '#666'
+          color: '#c4c0b3'
           brightness: 0.6
         link:
           text: conference website
