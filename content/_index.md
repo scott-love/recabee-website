@@ -63,7 +63,7 @@ sections:
           date_end: '2024-09-19'
           date_start: '2024-09-17'
           description: ''
-          icon: camera-web
+          icon: video
           organization: SPACE
           organization_url: https://www.space.fr/
           url: 'https://www.space.fr/'
