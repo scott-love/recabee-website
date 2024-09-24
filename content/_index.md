@@ -32,7 +32,7 @@ sections:
       page_type: event
     design:
       view: card
-      columns: '2'
+      columns: '1'
   - block: accomplishments
     content:
       title: Agenda
