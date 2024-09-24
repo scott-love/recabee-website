@@ -67,11 +67,11 @@ sections:
           #icon: coursera
           organization: SPACE
           organization_url: https://www.space.fr/
-          url: ''
+          url: 'https://www.space.fr/'
         - title: PCI Webinar Series
           date_end: ''
           date_start: '2024-09-19'
-          description: >-
+          description: |2-
             Reimagining scholarly publishing to promote credible and trustworthy research
             by Brian Nosek (Center of Open Science)
           #icon: edx
