@@ -11,10 +11,11 @@ main:
     url: event
     weight: 20
   - name: Agenda
-    url: /#accomplishments
+    url: /#agenda
+    weight: 30
   - name: Related Conferences
     url: confs
-    weight: 30
+    weight: 40
   - name: Publications
     url: publication
-    weight: 40
+    weight: 50

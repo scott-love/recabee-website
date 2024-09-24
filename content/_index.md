@@ -34,6 +34,7 @@ sections:
       view: card
       columns: '1'
   - block: accomplishments
+    id: agenda
     content:
       title: Agenda
       subtitle: 'Upcoming related webinars, educational courses and conferences'
