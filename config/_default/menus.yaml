@@ -7,7 +7,7 @@ main:
   - name: Members
     url: people
     weight: 10
-  - name: Events
+  - name: Our Events
     url: event
     weight: 20
   - name: Agenda
