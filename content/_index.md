@@ -60,11 +60,10 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: SPACE Conference
-          #certificate_url: https://www.space.fr/
           date_end: '2024-09-19'
           date_start: '2024-09-17'
           description: ''
-          #icon: coursera
+          icon: conference
           organization: SPACE
           organization_url: https://www.space.fr/
           url: 'https://www.space.fr/'
