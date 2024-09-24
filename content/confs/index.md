@@ -8,8 +8,8 @@ sections:
   - block: slider
     content:
       slides:
-      - title: The 31st International Conference on Comparative Cognition
-        content: 10 to 13 April 2024 in Albuquerque, New Mexico, USA
+      - title: The 32nd International Conference on Comparative Cognition
+        content: 26 to 29 March 2025 in Albuquerque, New Mexico, USA
         align: center
         background:
           image:
