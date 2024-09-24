@@ -45,7 +45,7 @@ sections:
         publication_type: 'article-journal'
     design:
       view: compact
-      columns: '1'
+      columns: '2'
   - block: accomplishments
     content:
       title: Agenda
@@ -85,7 +85,7 @@ sections:
         gradient_start: '#f0c0bf'
         gradient_end: '#ed6e6c'
         # The gradient angle from 0-360 degrees
-        gradient_angle: 180
+        gradient_angle: 90
   - block: markdown
     content:
       title:
