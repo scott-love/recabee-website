@@ -81,7 +81,7 @@ sections:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
       background:
-        color: "#66c1bf" 
+        color: "#ed6e6c" 
   - block: markdown
     content:
       title:
