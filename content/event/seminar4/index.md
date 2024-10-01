@@ -1,5 +1,5 @@
 ---
-title: In person seminar - "projects"
+title: Seminar 4- "projects"
 
 event: RECABEE Seminar
 event_url: 
