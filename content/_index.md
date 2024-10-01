@@ -91,6 +91,26 @@ sections:
           organization: Norwegian National Committee for the Protection of Animals used for Scientific Purposes
           organization_url: https://www.forsoksdyrkomiteen.no/invitation-to-an-online-meeting-on-3rs-and-best-practice-in-wild-bird-research/
           url: https://www.forsoksdyrkomiteen.no/invitation-to-an-online-meeting-on-3rs-and-best-practice-in-wild-bird-research/
+        - title: Campus Maisons-Alfort
+          date_end: '2024-10-18'
+          date_start: '2024-10-17'
+          description: |2-
+            *Colloque (Maisons-Alfort, France)*  
+            HUMANIMAL - Relations humain-animal: mêmes maladies, même environnement et même sensibilité
+          #icon: edx
+          organization: Norwegian National Committee for the Protection of Animals used for Scientific Purposes
+          organization_url: https://hum-ani-mal.sciencesconf.org/?lang=fr
+          url: https://hum-ani-mal.sciencesconf.org/?lang=fr
+        - title: Journées du Laboratoire Innovation Territorial Expert
+          date_end: '2024-10-23'
+          date_start: '2024-10-22'
+          description: |2-
+            *Colloque (Rennes, France)*  
+            Le bien-être animal, sa place et sa valorisation: moteur d'un sens renouvelé au travail ?
+          #icon: edx
+          organization: LIT Expert
+          organization_url: https://phase.intranet.inrae.fr/vie-scientifique/congres-et-colloques/journees-l.i.t-expert
+          url: https://phase.intranet.inrae.fr/vie-scientifique/congres-et-colloques/journees-l.i.t-expert
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
