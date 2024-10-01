@@ -36,7 +36,7 @@ sections:
   - block: accomplishments
     id: agenda
     sort_by: 'Date'
-    sort_ascending: true
+    sort_ascending: false
     content:
       title: This Months Agenda
       subtitle: 'Upcoming related webinars, educational courses and conferences'
