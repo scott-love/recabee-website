@@ -61,6 +61,16 @@ sections:
           organization: AFSTAL/GIRCOR
           organization_url: https://www.alphavisa.com/webinars/afstal/2024/index.php
           url: https://www.alphavisa.com/webinars/afstal/2024/index.php
+        - title: Observatoire de Recherche sur la Condition Animale
+          date_end: ''
+          date_start: '2024-10-08'
+          description: |2-
+            *Webinaire • 18h (s inscrire à la liste de diffusion pour avoir le lien)*  
+            L'être humain, seul animal moral ? Un aperçu du débat
+          #icon: edx
+          organization: Réseau ORCA
+          organization_url: https://orcanimale.fr/
+          url: https://orcanimale.fr/liste-de-diffusion/
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
