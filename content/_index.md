@@ -36,29 +36,31 @@ sections:
   - block: accomplishments
     id: agenda
     content:
-      title: Agenda
+      title: This Months Agenda
       subtitle: 'Upcoming related webinars, educational courses and conferences'
       text: ''
       date_format: 01 Jan 2006
       items:
-        - title: SPACE Conference
-          date_end: '2024-09-19'
-          date_start: '2024-09-17'
-          description: 'The International Exhibition for animal farming'
-          icon: "custom/conference"
-          organization: SPACE
-          organization_url: https://www.space.fr/
-          url: 'https://www.space.fr/'
-        - title: PCI Webinar Series
+        - title: Sommet de l'Elevage
+          date_end: '2024-10-01'
+          date_start: '2024-10-04'
+          description: 'Le mondial de l'elevage durable'
+          #icon: "custom/conference"
+          organization: Sommet de l'Elevage
+          organization_url: https://www.sommet-elevage.fr/fr
+          url: https://www.sommet-elevage.fr/fr
+        - title: AFSTAL/CIRCOR Webinar
           date_end: ''
-          date_start: '2024-09-19'
+          date_start: '2024-10-04'
           description: |2-
-            Reimagining scholarly publishing to promote credible and trustworthy research  
-            by Brian Nosek (Center of Open Science)
+            Poissons et 3Rs :  
+            mieux comprendre les implications de la directive déléguée (UE) 2024/1262 de la  
+            Commission Européenne du 13 mars 2024  
+            Intervenant : Jean-Philippe MOCHO
           #icon: edx
-          organization: Peer Community In
-          organization_url: https://peercommunityin.org/
-          url: https://peercommunityin.org/pci-webinar-series/
+          organization: AFSTAL/CIRCOR
+          organization_url: https://www.alphavisa.com/webinars/afstal/2024/index.php
+          url: https://www.alphavisa.com/webinars/afstal/2024/index.php
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'

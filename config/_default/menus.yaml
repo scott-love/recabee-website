@@ -13,7 +13,7 @@ main:
   - name: Agenda
     url: /#agenda
     weight: 30
-  - name: Related Conferences
+  - name: Conferences
     url: confs
     weight: 40
   - name: Publications
