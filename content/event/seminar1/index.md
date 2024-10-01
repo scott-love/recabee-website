@@ -1,10 +1,10 @@
 ---
-title: In person seminar - "projects"
+title: Webinar 1 
 
-event: RECABEE Seminar
+event: RECABEE Webinar 1
 event_url: 
 
-location: INRAE Centre val de Loire, Nouzilly
+location: Online via Zoom
 #address:
 #  street: 450 Serra Mall
 #  city: Stanford
@@ -12,12 +12,12 @@ location: INRAE Centre val de Loire, Nouzilly
 #  postcode: '94305'
 #  country: United States
 
-summary: The fourth RECABEE seminar where we discussed creating projects.
+summary: The first RECABEE webinar.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-06-29T10:00:00Z'
-date_end: '2023-06-29T16:00:00Z'
+date: '2021-11-19T13:30:00Z'
+date_end: '2021-11-19T17:15:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -50,4 +50,4 @@ slides: ""
 projects: []
 ---
 
-The fourth RECABEE seminar where we will discuss creating projects.
+The first RECABEE webinar.
