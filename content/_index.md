@@ -41,7 +41,7 @@ sections:
       text: ''
       date_format: 01 Jan 2006
       items:
-        - title: 'Sommet de l'Elevage'
+        - title: Sommet 
           date_end: '2024-10-04'
           date_start: '2024-10-01'
           description: 'Le mondial de l'elevage durable'
@@ -69,6 +69,13 @@ sections:
             L'être humain, seul animal moral ? Un aperçu du débat.
             Intervenant : Virginie Simoneau-Gilbert
           #icon: "custom/conference"
+          organization: 'Réseau ORCA'
+          organization_url: https://orcanimale.fr/axes/
+          url: https://orcanimale.fr/liste-de-diffusion/
+        - title: 'Galactinnov'
+          date_end: '2024-10-11'
+          date_start: '2024-10-10'
+          description: |2-
           organization: 'Réseau ORCA'
           organization_url: https://orcanimale.fr/axes/
           url: https://orcanimale.fr/liste-de-diffusion/
