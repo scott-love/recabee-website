@@ -41,25 +41,25 @@ sections:
       text: ''
       date_format: 01 Jan 2006
       items:
-        - title: AFSTAL/GIRCOR
+        - title: Sommet de l'Elevage
           date_end: '2024-10-04'
           date_start: '2024-10-01'
           description: |2-
             *Évènement (Clermont-Ferrand, France)*  
             Sommet de l'élevage - Le mondial de l'élevage durable
-          organization: AFSTAL/GIRCOR
+          organization: Sommet de l'Elevage
           organization_url: https://www.sommet-elevage.fr/
           url: https://www.sommet-elevage.fr/
-        - title: PCI Webinar Series
+        - title: AFSTAL/GIRCOR
           date_end: ''
-          date_start: '2024-09-19'
+          date_start: '2024-10-04'
           description: |2-
-            Reimagining scholarly publishing to promote credible and trustworthy research  
-            by Brian Nosek (Center of Open Science)
+            Webinaire • 14-15h (en ligne)
+            Poissons et 3Rs: mieux comprendre les implications de la directive déléguée (UE) 2024/1262 de la Commission Européenne du 13 mars 2024 (DL inscription 30/09).
           #icon: edx
-          organization: Peer Community In
-          organization_url: https://peercommunityin.org/
-          url: https://peercommunityin.org/pci-webinar-series/
+          organization: AFSTAL/GIRCOR
+          organization_url: https://www.alphavisa.com/webinars/afstal/2024/index.php
+          url: https://www.alphavisa.com/webinars/afstal/2024/index.php
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
