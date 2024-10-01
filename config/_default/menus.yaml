@@ -4,16 +4,16 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Members
+  - name: Membres
     url: people
     weight: 10
-  - name: Our Events
+  - name: Nos Événements
     url: event
     weight: 20
   - name: Agenda
     url: /#agenda
     weight: 30
-  - name: Conferences
+  - name: Conférences
     url: confs
     weight: 40
   - name: Publications
