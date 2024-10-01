@@ -8,17 +8,17 @@ sections:
   - block: hero
     content:
       title: |
-        About RECABEE
+        À propos de RECABEE
       image:
         filename: recabee2.png
       text: |
         <br>
         
-        The [INRAE](https://www.inrae.fr/) Farm Animal Cognition and Welfare network consists of the researchers, engineers, technicians and students of the [Departments PHASE](https://www.inrae.fr/departements/phase) and [GA](https://www.inrae.fr/departements/ga) who are interested in animal cognition, welfare and their interrelationship. Members of the network come from about 14 different research laboratories from all over France. They conduct research on a variety of farm animals including sheep, goats, cattle, horses, pigs, trout, poultry and insects. The main expectations of the network’s members are: 1) to think about the link between cognition and welfare; 2) to discuss the concepts and methods of both cognition and welfare research and; 3) to get to know better their colleagues conducting research in these areas.
+        Le Réseau Cognition Animal et Bien-être en Élevage regroupe des chercheurs, ingénieurs, techniciens et étudiants des départements [PHASE](https://www.inrae.fr/departements/phase) et [GA](https://www.inrae.fr/departements/ga) d’[INRAE](https://www.inrae.fr/) qui s'intéressent à la cognition animale, au bien-être et à leurs interrelations. Les membres du réseau travaillent dans une quinzaine de laboratoires de recherche répartis dans toute la France. Ils mènent des recherches sur une diversité d'animaux d'élevage, notamment les ovins, caprins, bovins, équins, porc, truites, volailles et insectes. Les principales attentes des membres du réseau sont de : 1) réfléchir aux liens entre cognition et bien-être animal ; 2) discuter des concepts et des méthodes de recherche et ; 3) mieux connaître les collègues qui mènent des recherches dans ces domaines.
   - block: collection
     content:
-      title: Our Latest Events
-      subtitle: online and in-person meetings
+      title: Nos Derniers Événements
+      subtitle: réunions en ligne et en présentiel
       text:
       count: 2
       filters:
@@ -36,8 +36,8 @@ sections:
   - block: accomplishments
     id: agenda
     content:
-      title: This Months Agenda
-      subtitle: 'Upcoming related webinars, educational courses and conferences'
+      title: Agenda du mois
+      subtitle: 'Webinaires, formations et conférences à venir'
       text: ''
       date_format: January 2, 2006
       items:
@@ -133,8 +133,8 @@ sections:
         gradient_angle: 90
   - block: collection
     content:
-      title: Related publications
-      subtitle: from RECABEE members
+      title: Publications
+      subtitle: par les membres de RECABEE
       text: ""
       count: 3
       filters:
@@ -149,7 +149,7 @@ sections:
       title:
       subtitle:
       text: |
-        {{% cta cta_link="./people/" cta_text="Meet the network →" %}}
+        {{% cta cta_link="./people/" cta_text="Rencontrer le Réseau →" %}}
     design:
       columns: '1'
       background:
