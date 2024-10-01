@@ -111,6 +111,17 @@ sections:
           organization: LIT Expert
           organization_url: https://phase.intranet.inrae.fr/vie-scientifique/congres-et-colloques/journees-l.i.t-expert
           url: https://phase.intranet.inrae.fr/vie-scientifique/congres-et-colloques/journees-l.i.t-expert
+        - title: Evaluation du Bien-Etre animal en Pisciculture
+          date_end: ''
+          date_start: '2024-10-24'
+          description: |2-
+            *Webinaire • 10h-12h (en ligne - PAYANT)*  
+            Présentation de la démarche et de l’outil pilote « EBENE® Truite »  
+            sur l’évaluation du Bien-Etre en élevage ; travaux sur les autres espèces piscicoles 
+          #icon: edx
+          organization: ITAVI
+          organization_url: https://phase.intranet.inrae.fr/vie-scientifique/congres-et-colloques/journees-l.i.t-expert
+          url: https://phase.intranet.inrae.fr/vie-scientifique/congres-et-colloques/journees-l.i.t-expert
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
