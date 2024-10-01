@@ -36,7 +36,7 @@ sections:
   - block: accomplishments
     id: agenda
     content:
-      title: Agenda
+      title: This Months Agenda
       subtitle: 'Upcoming related webinars, educational courses and conferences'
       text: ''
       date_format: 01 Jan 2006
@@ -54,8 +54,9 @@ sections:
           date_end: ''
           date_start: '2024-10-04'
           description: |2-
-            Webinaire • 14-15h (en ligne)
-            Poissons et 3Rs: mieux comprendre les implications de la directive déléguée (UE) 2024/1262 de la Commission Européenne du 13 mars 2024 (DL inscription 30/09).
+            *Webinaire • 14-15h (en ligne)*  
+            Poissons et 3Rs:  
+            Mieux comprendre les implications de la directive déléguée (UE) 2024/1262 de la Commission Européenne du 13 mars 2024 (DL inscription 30/09).
           #icon: edx
           organization: AFSTAL/GIRCOR
           organization_url: https://www.alphavisa.com/webinars/afstal/2024/index.php
