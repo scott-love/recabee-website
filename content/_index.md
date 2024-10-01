@@ -45,7 +45,7 @@ sections:
           date_end: '2024-10-04'
           date_start: '2024-10-01'
           description: 'Le mondial de l'elevage durable'
-          #icon: "custom/conference"
+          icon: "custom/conference"
           organization: 'Sommet de l'Elevage'
           organization_url: https://www.sommet-elevage.fr/fr
           url: https://www.sommet-elevage.fr/fr
