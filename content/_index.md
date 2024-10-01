@@ -41,9 +41,9 @@ sections:
       text: ''
       date_format: 01 Jan 2006
       items:
-        - title: 'Sommet de l'Elevage'
-          date_end: '2024-10-01'
-          date_start: '2024-10-04'
+        - title: Sommet de l'Elevage
+          date_end: '2024-10-04'
+          date_start: '2024-10-01'
           description: 'Le mondial de l'elevage durable'
           #icon: "custom/conference"
           organization: Sommet de l'Elevage
