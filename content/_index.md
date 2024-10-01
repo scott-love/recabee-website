@@ -41,7 +41,7 @@ sections:
       text: ''
       date_format: 01 Jan 2006
       items:
-        - title: SPACE Conference
+        - title: AFSTAL/GIRCOR
           date_end: '2024-09-19'
           date_start: '2024-09-17'
           description: 'The International Exhibition for animal farming'
