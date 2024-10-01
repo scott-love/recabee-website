@@ -12,7 +12,7 @@ location: Online via Zoom
 #  postcode: '94305'
 #  country: United States
 
-summary: The sixth RECABEE webinar where we discussed environmental enrichment.
+summary: The sixth RECABEE webinar where we discussed environmental enrichment and The Mirror Test
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
