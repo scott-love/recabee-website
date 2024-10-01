@@ -81,6 +81,16 @@ sections:
           organization: Galactinnov
           organization_url: https://phase.intranet.inrae.fr/vie-scientifique/l-animation-scientifique/les-animations-transversales/reunion-glande-mammaire-lait-galactinnov-2024
           url: https://phase.intranet.inrae.fr/vie-scientifique/l-animation-scientifique/les-animations-transversales/reunion-glande-mammaire-lait-galactinnov-2024
+        - title: Forsoksdyr komiteen (Norvège)
+          date_end: ''
+          date_start: '2024-10-15'
+          description: |2-
+            *Webinaire • 10h-12h (en ligne)*  
+            3Rs in Wild Bird Research
+          #icon: edx
+          organization: Norwegian National Committee for the Protection of Animals used for Scientific Purposes
+          organization_url: https://www.forsoksdyrkomiteen.no/invitation-to-an-online-meeting-on-3rs-and-best-practice-in-wild-bird-research/
+          url: https://www.forsoksdyrkomiteen.no/invitation-to-an-online-meeting-on-3rs-and-best-practice-in-wild-bird-research/
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
