@@ -42,13 +42,14 @@ sections:
       date_format: 01 Jan 2006
       items:
         - title: AFSTAL/GIRCOR
-          date_end: '2024-09-19'
-          date_start: '2024-09-17'
-          description: 'The International Exhibition for animal farming'
-          icon: "custom/conference"
-          organization: SPACE
-          organization_url: https://www.space.fr/
-          url: 'https://www.space.fr/'
+          date_end: '2024-10-04'
+          date_start: '2024-10-01'
+          description: |2-
+            *Évènement (Clermont-Ferrand, France)*  
+            Sommet de l'élevage - Le mondial de l'élevage durable
+          organization: AFSTAL/GIRCOR
+          organization_url: https://www.sommet-elevage.fr/
+          url: https://www.sommet-elevage.fr/
         - title: PCI Webinar Series
           date_end: ''
           date_start: '2024-09-19'
