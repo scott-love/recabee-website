@@ -120,7 +120,7 @@ sections:
             sur l’évaluation du Bien-Etre en élevage ; travaux sur les autres espèces piscicoles 
           #icon: edx
           organization: ITAVI
-          organization_url: https://evenements.itavi.asso.fr/evenement/evaluation-du-bien-etre-animal-en-pisciculture
+          organization_url: https://evenements.itavi.asso.fr/
           url: https://evenements.itavi.asso.fr/evenement/evaluation-du-bien-etre-animal-en-pisciculture
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
