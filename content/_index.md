@@ -41,15 +41,15 @@ sections:
       text: ''
       date_format: 01 Jan 2006
       items:
-        - title: Sommet de l'Elevage
+        - title: 'Sommet de l'Elevage'
           date_end: '2024-10-04'
           date_start: '2024-10-01'
           description: 'Le mondial de l'elevage durable'
           #icon: "custom/conference"
-          organization: Sommet de l'Elevage
+          organization: 'Sommet de l'Elevage'
           organization_url: https://www.sommet-elevage.fr/fr
           url: https://www.sommet-elevage.fr/fr
-        - title: AFSTAL/CIRCOR Webinar
+        - title: 'AFSTAL/CIRCOR Webinar'
           date_end: ''
           date_start: '2024-10-04'
           description: |2-
@@ -58,17 +58,20 @@ sections:
             Commission Européenne du 13 mars 2024  
             Intervenant : Jean-Philippe MOCHO
           #icon: edx
-          organization: AFSTAL/CIRCOR
+          organization: 'AFSTAL/CIRCOR'
           organization_url: https://www.alphavisa.com/webinars/afstal/2024/index.php
           url: https://www.alphavisa.com/webinars/afstal/2024/index.php
-        - title: Observatoire de Recherche sur la Condition Animale
+        - title: 'Observatoire de Recherche sur la Condition Animale'
           date_end: ''
           date_start: '2024-10-08'
-          description: 'Le mondial de l'elevage durable'
+          description: |2-
+            Webinaire - 18h (s'inscrire à la liste de diffusion pour avoir le lien)  
+            L'être humain, seul animal moral ? Un aperçu du débat.
+            Intervenant : Virginie Simoneau-Gilbert
           #icon: "custom/conference"
-          organization: Sommet de l'Elevage
-          organization_url: https://www.sommet-elevage.fr/fr
-          url: https://www.sommet-elevage.fr/fr
+          organization: 'Réseau ORCA'
+          organization_url: https://orcanimale.fr/axes/
+          url: https://orcanimale.fr/liste-de-diffusion/
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
