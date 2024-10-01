@@ -120,8 +120,8 @@ sections:
             sur l’évaluation du Bien-Etre en élevage ; travaux sur les autres espèces piscicoles 
           #icon: edx
           organization: ITAVI
-          organization_url: https://phase.intranet.inrae.fr/vie-scientifique/congres-et-colloques/journees-l.i.t-expert
-          url: https://phase.intranet.inrae.fr/vie-scientifique/congres-et-colloques/journees-l.i.t-expert
+          organization_url: https://evenements.itavi.asso.fr/evenement/evaluation-du-bien-etre-animal-en-pisciculture
+          url: https://evenements.itavi.asso.fr/evenement/evaluation-du-bien-etre-animal-en-pisciculture
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
