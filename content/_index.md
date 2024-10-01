@@ -39,7 +39,7 @@ sections:
       title: This Months Agenda
       subtitle: 'Upcoming related webinars, educational courses and conferences'
       text: ''
-      date_format: 01 Jan 2006
+      date_format: Jan 2, 2006
       items:
         - title: Sommet de l'Elevage
           date_end: '2024-10-04'
