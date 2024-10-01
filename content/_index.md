@@ -71,6 +71,16 @@ sections:
           organization: Réseau ORCA
           organization_url: https://orcanimale.fr/
           url: https://orcanimale.fr/liste-de-diffusion/
+        - title: Galactinnov
+          date_end: '2024-10-11'
+          date_start: '2024-10-10'
+          description: |2-
+            *Séminaire (Tours, France)*  
+            Rencontre annuelle Galactinnov-Glande mammaire, Lait
+          #icon: edx
+          organization: Galactinnov
+          organization_url: https://phase.intranet.inrae.fr/vie-scientifique/l-animation-scientifique/les-animations-transversales/reunion-glande-mammaire-lait-galactinnov-2024
+          url: https://phase.intranet.inrae.fr/vie-scientifique/l-animation-scientifique/les-animations-transversales/reunion-glande-mammaire-lait-galactinnov-2024
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
