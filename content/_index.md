@@ -41,7 +41,7 @@ sections:
       text: ''
       date_format: 01 Jan 2006
       items:
-        - title: Sommet de l'Elevage
+        - title: 'Sommet de l'Elevage'
           date_end: '2024-10-01'
           date_start: '2024-10-04'
           description: 'Le mondial de l'elevage durable'
@@ -61,6 +61,14 @@ sections:
           organization: AFSTAL/CIRCOR
           organization_url: https://www.alphavisa.com/webinars/afstal/2024/index.php
           url: https://www.alphavisa.com/webinars/afstal/2024/index.php
+        - title: Observatoire de Recherche sur la Condition Animale
+          date_end: ''
+          date_start: '2024-10-08'
+          description: 'Le mondial de l'elevage durable'
+          #icon: "custom/conference"
+          organization: Sommet de l'Elevage
+          organization_url: https://www.sommet-elevage.fr/fr
+          url: https://www.sommet-elevage.fr/fr
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
