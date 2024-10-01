@@ -41,15 +41,6 @@ sections:
       text: ''
       date_format: January 2, 2006
       items:
-        - title: Sommet de l'Elevage
-          date_end: '2024-10-04'
-          date_start: '2024-10-01'
-          description: |2-
-            *Évènement (Clermont-Ferrand, France)*  
-            Sommet de l'élevage - Le mondial de l'élevage durable
-          organization: Sommet de l'Elevage
-          organization_url: https://www.sommet-elevage.fr/
-          url: https://www.sommet-elevage.fr/
         - title: AFSTAL/GIRCOR
           date_end: ''
           date_start: '2024-10-04'
@@ -61,6 +52,15 @@ sections:
           organization: AFSTAL/GIRCOR
           organization_url: https://www.alphavisa.com/webinars/afstal/2024/index.php
           url: https://www.alphavisa.com/webinars/afstal/2024/index.php
+        - title: Sommet de l'Elevage
+          date_end: '2024-10-04'
+          date_start: '2024-10-01'
+          description: |2-
+            *Évènement (Clermont-Ferrand, France)*  
+            Sommet de l'élevage - Le mondial de l'élevage durable
+          organization: Sommet de l'Elevage
+          organization_url: https://www.sommet-elevage.fr/
+          url: https://www.sommet-elevage.fr/
         - title: Observatoire de Recherche sur la Condition Animale
           date_end: ''
           date_start: '2024-10-08'
