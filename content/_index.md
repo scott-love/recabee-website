@@ -41,7 +41,7 @@ sections:
       text: ''
       date_format: January 2, 2006
       sort_by: 'Date'
-      sort_ascending: false
+      sort_ascending: true
       items:
         - title: Sommet de l'Elevage
           date_end: '2024-10-04'
