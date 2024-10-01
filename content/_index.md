@@ -71,8 +71,8 @@ sections:
           organization: Réseau ORCA
           organization_url: https://orcanimale.fr/
           url: https://orcanimale.fr/liste-de-diffusion/
-        sort_by: 'Date'
-        sort_ascending: true
+      sort_by: 'Date'
+      sort_ascending: true
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
