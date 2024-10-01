@@ -14,7 +14,7 @@ en:
   contentDir: content/en
   title: RECABEE
   params:
-    description: Site description in Chinese...
+    description:
   menu:
     main:
       - name: Members
