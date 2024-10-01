@@ -35,6 +35,8 @@ sections:
       columns: '1'
   - block: accomplishments
     id: agenda
+    sort_by: 'Date'
+    sort_ascending: true
     content:
       title: This Months Agenda
       subtitle: 'Upcoming related webinars, educational courses and conferences'
@@ -71,8 +73,6 @@ sections:
           organization: Réseau ORCA
           organization_url: https://orcanimale.fr/
           url: https://orcanimale.fr/liste-de-diffusion/
-      sort_by: 'Date'
-      sort_ascending: false
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
