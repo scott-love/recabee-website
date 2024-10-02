@@ -1,6 +1,6 @@
 # Languages
 #   Create a section for each of your site's languages.
-#   Documentation: https://wowchemy.com/docs/guide/language/
+#   Documentation: https://docs.hugoblox.com/reference/language/
 
 # Default language
 fr:
@@ -14,18 +14,24 @@ en:
   contentDir: content/en
   title: RECABEE
   params:
-    description: Site description in Chinese...
+    description:
   menu:
     main:
-      - name: Events
-        url: event
-        weight: 10
       - name: Members
         url: people
+        weight: 10
+      - name: Our Events
+        url: event
         weight: 20
-      - name: News
-        url: confs
+      - name: Agenda
+        url: /#agenda
         weight: 30
-      - name: Contact
-        url: /#contact
+      - name: Conferences
+        url: confs
         weight: 40
+      - name: Publications
+        url: publication
+        weight: 50
+      - name: Contact
+        url: /#homecontact
+        weight: 60

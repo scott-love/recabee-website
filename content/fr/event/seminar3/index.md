@@ -1,7 +1,7 @@
 ---
-title: Webinar 1 
+title: Webinar 3 - "expectation"
 
-event: RECABEE Webinar 1
+event: RECABEE Webinar 3
 event_url: 
 
 location: Online via Zoom
@@ -12,12 +12,12 @@ location: Online via Zoom
 #  postcode: '94305'
 #  country: United States
 
-summary: The first RECABEE webinar.
+summary: The third RECABEE webinar where we discussed animal expectations.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2021-11-19T13:30:00Z'
-date_end: '2021-11-19T17:15:00Z'
+date: '2022-12-15T13:30:00Z'
+date_end: '2022-12-15T17:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -50,4 +50,4 @@ slides: ""
 projects: []
 ---
 
-The first RECABEE webinar.
+The third RECABEE webinar where we discussed animal expectations.

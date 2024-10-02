@@ -1,5 +1,5 @@
 ---
-title: Événements à venir et passés
+title: Événements précédents et à venir
 
 # Listing view
 view: compact

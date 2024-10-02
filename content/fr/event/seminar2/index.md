@@ -1,7 +1,7 @@
 ---
-title: Webinar 1 
+title: Webinar 2
 
-event: RECABEE Webinar 1
+event: RECABEE Webinar 2
 event_url: 
 
 location: Online via Zoom
@@ -12,12 +12,12 @@ location: Online via Zoom
 #  postcode: '94305'
 #  country: United States
 
-summary: The first RECABEE webinar.
+summary: The second RECABEE webinar where we discussed...
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2021-11-19T13:30:00Z'
-date_end: '2021-11-19T17:15:00Z'
+date: '2022-05-10T13:30:00Z'
+date_end: '2022-05-10T17:15:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -50,4 +50,4 @@ slides: ""
 projects: []
 ---
 
-The first RECABEE webinar.
+The second RECABEE webinar where we discussed...
