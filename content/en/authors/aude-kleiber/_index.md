@@ -50,6 +50,7 @@ social:
     icon_pack: ai
     link: https://www.researchgate.net/profile/Aude-Kleiber 
   - icon: linkedin
+    icon_pack: ai
     link: https://www.linkedin.com/in/aude-kleiber-b9a918111/ 
 
 # Link to a PDF of your resume/CV from the About widget.
