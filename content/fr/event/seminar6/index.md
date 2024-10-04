@@ -1,7 +1,7 @@
 ---
-title: Webinar 6 - "Environmental enrichment"
+title: Webinar 6 - "Enrichissement de l'environnement"
 
-event: RECABEE Webinar 4
+event: RECABEE Webinar 6
 event_url: 
 
 location: Online via Zoom
@@ -12,7 +12,7 @@ location: Online via Zoom
 #  postcode: '94305'
 #  country: United States
 
-summary: The sixth RECABEE webinar where we discussed environmental enrichment and The Mirror Test
+summary: Le sixième webinaire de RECABEE où nous avons discuté de l'enrichissement environnemental et du test du miroir.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -50,4 +50,4 @@ slides: ""
 projects: []
 ---
 
-The sixth RECABEE webinar where we discussed environmental enrichment and The Mirror Test with [Thibault de Meyer](https://www.uliege.be/cms/c_9054334/fr/repertoire?uid=U228928).
+Le sixième webinaire de RECABEE où nous avons discuté de l'enrichissement environnemental et du test du miroir avec [Thibault de Meyer](https://www.uliege.be/cms/c_9054334/fr/repertoire?uid=U228928).
