@@ -41,66 +41,23 @@ sections:
       text: ''
       date_format: January 2, 2006
       items:
-        - title: Sommet de l'Elevage
-          date_end: '2024-10-04'
-          date_start: '2024-10-01'
-          description: |2-
-            *Évènement (Clermont-Ferrand, France)*  
-            Sommet de l'élevage - Le mondial de l'élevage durable
-          organization: Sommet de l'Elevage
-          organization_url: https://www.sommet-elevage.fr/
-          url: https://www.sommet-elevage.fr/
-        - title: AFSTAL/GIRCOR
+        #- title: 
+        #  date_end: '2024-10-18'
+        #  date_start: '2024-10-17'
+        #  description: |2-
+        #    XXX
+        #  organization: 
+        #  organization_url: 
+        #  url: 
+        - title: TARCforce3R (Allemagne)
           date_end: ''
-          date_start: '2024-10-04'
+          date_start: '2024-10-18'
           description: |2-
-            *Webinaire • 14-15h (en ligne)*  
-            Poissons et 3Rs:  
-            Mieux comprendre les implications de la directive déléguée (UE) 2024/1262 de la Commission Européenne du 13 mars 2024 (DL inscription 30/09).
-          #icon: edx
-          organization: AFSTAL/GIRCOR
-          organization_url: https://www.alphavisa.com/webinars/afstal/2024/index.php
-          url: https://www.alphavisa.com/webinars/afstal/2024/index.php
-        - title: Observatoire de Recherche sur la Condition Animale
-          date_end: ''
-          date_start: '2024-10-08'
-          description: |2-
-            *Webinaire • 18h (s inscrire à la liste de diffusion pour avoir le lien)*  
-            L'être humain, seul animal moral ? Un aperçu du débat
-          #icon: edx
-          organization: Réseau ORCA
-          organization_url: https://orcanimale.fr/
-          url: https://orcanimale.fr/liste-de-diffusion/
-        - title: Galactinnov
-          date_end: '2024-10-11'
-          date_start: '2024-10-10'
-          description: |2-
-            *Séminaire (Tours, France)*  
-            Rencontre annuelle Galactinnov-Glande mammaire, Lait
-          #icon: edx
-          organization: Galactinnov
-          organization_url: https://phase.intranet.inrae.fr/vie-scientifique/l-animation-scientifique/les-animations-transversales/reunion-glande-mammaire-lait-galactinnov-2024
-          url: https://phase.intranet.inrae.fr/vie-scientifique/l-animation-scientifique/les-animations-transversales/reunion-glande-mammaire-lait-galactinnov-2024
-        - title: Forsoksdyr komiteen (Norvège)
-          date_end: ''
-          date_start: '2024-10-15'
-          description: |2-
-            *Webinaire • 10h-12h (en ligne)*  
-            3Rs in Wild Bird Research
-          #icon: edx
-          organization: Norwegian National Committee for the Protection of Animals used for Scientific Purposes
-          organization_url: https://www.forsoksdyrkomiteen.no/invitation-to-an-online-meeting-on-3rs-and-best-practice-in-wild-bird-research/
-          url: https://www.forsoksdyrkomiteen.no/invitation-to-an-online-meeting-on-3rs-and-best-practice-in-wild-bird-research/
-        - title: Campus Maisons-Alfort
-          date_end: '2024-10-18'
-          date_start: '2024-10-17'
-          description: |2-
-            *Colloque (Maisons-Alfort, France)*  
-            HUMANIMAL - Relations humain-animal: mêmes maladies, même environnement et même sensibilité
-          #icon: edx
-          organization: Norwegian National Committee for the Protection of Animals used for Scientific Purposes
-          organization_url: https://hum-ani-mal.sciencesconf.org/?lang=fr
-          url: https://hum-ani-mal.sciencesconf.org/?lang=fr
+             *Webinaire • 14h (en ligne)
+             Fish as experimental animals
+          #organization: 
+          #organization_url: 
+          url: https://www.unimedizin-mainz.de/tarc-force-3r/veranstaltungen.html
         - title: Journées du Laboratoire Innovation Territorial Expert
           date_end: '2024-10-23'
           date_start: '2024-10-22'
