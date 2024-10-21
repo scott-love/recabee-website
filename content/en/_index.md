@@ -45,19 +45,55 @@ sections:
         #  date_end: '2024-10-18'
         #  date_start: '2024-10-17'
         #  description: |2-
-        #    XXX
+        #    * *  
         #  organization: 
         #  organization_url: 
-        #  url: 
+        #  url:
+        - title: EAAP Webinar Series
+          date_end: ''
+          date_start: '2024-11-12'
+          description: |2-
+            *Webinaire • 15h-17h30 (en ligne)*  
+            Beekeeping Today (DL inscription 12/11)
+          organization: 
+          organization_url: 
+          url:
+        - title: FC3R
+          date_end: ''
+          date_start: '2024-11-05'
+          description: |2-
+            *Webinaire • 13h-14h (en ligne)*   
+            Innovations pédagogiques: alternatives à l'utilisation d'animaux en enseignement supérieur
+          #organization: 
+          #organization_url: 
+          url: https://www.fc3r.com/webinaires/innovations-pedagogiques-alternatives-l-utilisation-d-animaux-en-17.html
+        - title: Animal Welfare Slack Workspace - Applying Ethology
+          date_end: ''
+          date_start: '2024-11-04'
+          description: |2-
+            *Webinaire • 20h (en ligne)*  
+            Effects of behavioural reactivity on production, reproduction, health and welfare in large ruminants
+          #organization: 
+          #organization_url: 
+          url: https://gdoc.pub/doc/e/2PACX-1vTPSRp0QnGTS4wwnLUqswE-ExoCmbCMby9r-swhBqx9ZTNmBNeB33U4XqEDcmKEMdWnhetO_QAtDyuv
         - title: TARCforce3R (Allemagne)
           date_end: ''
           date_start: '2024-10-18'
           description: |2-
-             *Webinaire • 14h (en ligne)
+             *Webinaire • 14h (en ligne)*  
              Fish as experimental animals
           #organization: 
           #organization_url: 
           url: https://www.unimedizin-mainz.de/tarc-force-3r/veranstaltungen.html
+        - title: Animal Behaviour Live
+          date_end: '2024-11-05'
+          date_start: '2024-11-04'
+          description: |2-
+            *Conférence (en ligne)*. 
+            Annual online conference 2024 (DL inscription 03/11)
+          #organization: 
+          #organization_url: 
+          url: https://animalbehaviour.live/conference
         - title: Journées du Laboratoire Innovation Territorial Expert
           date_end: '2024-10-23'
           date_start: '2024-10-22'
