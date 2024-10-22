@@ -58,7 +58,7 @@ sections:
         #  organization: 
         #  organization_url: 
           url: https://lillethics.com/event/colloque-traversees-et-resonances-du-vivant/
-        - title: 
+        - title: NC3Rs (Royaume-Uni)
           date_end: ''
           date_start: '2024-11-13'
           description: |2-
@@ -116,7 +116,7 @@ sections:
           date_end: '2024-11-05'
           date_start: '2024-11-04'
           description: |2-
-            *Conférence (en ligne)*. 
+            *Conférence (en ligne)*  
             Annual online conference 2024 (DL inscription 03/11)
           #organization: 
           #organization_url: 
