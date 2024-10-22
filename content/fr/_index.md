@@ -36,7 +36,7 @@ sections:
   - block: accomplishments
     id: agenda
     content:
-      title: Agenda du mois
+      title: À vos agenda
       subtitle: 'Webinaires, formations et conférences à venir'
       text: ''
       date_format: January 2, 2006
