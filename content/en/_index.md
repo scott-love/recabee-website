@@ -49,15 +49,42 @@ sections:
         #  organization: 
         #  organization_url: 
         #  url:
+        - title: Université Catholique de Lille
+          date_end: '2024-11-15'
+          date_start: '2024-11-14'
+          description: |2-
+            *Colloque (Lille & en ligne)*  
+            Traversées et résonances du vivant - Réflexions interdisciplinaires sur les liens fondamentaux humains-animaux-nature
+        #  organization: 
+        #  organization_url: 
+          url: https://lillethics.com/event/colloque-traversees-et-resonances-du-vivant/
+        - title: 
+          date_end: ''
+          date_start: '2024-11-13'
+          description: |2-
+            *Webinaire • 15h-16h (en ligne)*  
+            Practical guidance for breeding & management of laboratory animal colonies (inscription requise)  
+          #organization: 
+          #organization_url: 
+          url: https://register.gotowebinar.com/register/5318167759149336150?source=Website
+        - title: IDELE
+          date_end: ''
+          date_start: '2024-11-12'
+          description: |2-
+            *Webinaire • 17h-18h (en ligne)*  
+            La maîtrise durable des boiteries en bovins laitiers (1/2)
+          #organization: 
+          #organization_url: 
+          url: https://idele.fr/detail-evenement/la-maitrise-durable-des-boiteries-en-bovins-laitiers-1
         - title: EAAP Webinar Series
           date_end: ''
           date_start: '2024-11-12'
           description: |2-
             *Webinaire • 15h-17h30 (en ligne)*  
             Beekeeping Today (DL inscription 12/11)
-          organization: 
-          organization_url: 
-          url:
+          #organization: 
+          #organization_url: 
+          url: https://meetings.eaap.org/webinar/beekeeping-today/
         - title: FC3R
           date_end: ''
           date_start: '2024-11-05'

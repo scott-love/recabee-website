@@ -41,66 +41,78 @@ sections:
       text: ''
       date_format: January 2, 2006
       items:
-        - title: Sommet de l'Elevage
-          date_end: '2024-10-04'
-          date_start: '2024-10-01'
+        - title: Université Catholique de Lille
+          date_end: '2024-11-15'
+          date_start: '2024-11-14'
           description: |2-
-            *Évènement (Clermont-Ferrand, France)*  
-            Sommet de l'élevage - Le mondial de l'élevage durable
-          organization: Sommet de l'Elevage
-          organization_url: https://www.sommet-elevage.fr/
-          url: https://www.sommet-elevage.fr/
-        - title: AFSTAL/GIRCOR
+            *Colloque (Lille & en ligne)*  
+            Traversées et résonances du vivant - Réflexions interdisciplinaires sur les liens fondamentaux humains-animaux-nature
+        #  organization: 
+        #  organization_url: 
+          url: https://lillethics.com/event/colloque-traversees-et-resonances-du-vivant/
+        - title: 
           date_end: ''
-          date_start: '2024-10-04'
+          date_start: '2024-11-13'
           description: |2-
-            *Webinaire • 14-15h (en ligne)*  
-            Poissons et 3Rs:  
-            Mieux comprendre les implications de la directive déléguée (UE) 2024/1262 de la Commission Européenne du 13 mars 2024 (DL inscription 30/09).
-          #icon: edx
-          organization: AFSTAL/GIRCOR
-          organization_url: https://www.alphavisa.com/webinars/afstal/2024/index.php
-          url: https://www.alphavisa.com/webinars/afstal/2024/index.php
-        - title: Observatoire de Recherche sur la Condition Animale
+            *Webinaire • 15h-16h (en ligne)*  
+            Practical guidance for breeding & management of laboratory animal colonies (inscription requise)  
+          #organization: 
+          #organization_url: 
+          url: https://register.gotowebinar.com/register/5318167759149336150?source=Website
+        - title: IDELE
           date_end: ''
-          date_start: '2024-10-08'
+          date_start: '2024-11-12'
           description: |2-
-            *Webinaire • 18h (s inscrire à la liste de diffusion pour avoir le lien)*  
-            L'être humain, seul animal moral ? Un aperçu du débat
-          #icon: edx
-          organization: Réseau ORCA
-          organization_url: https://orcanimale.fr/
-          url: https://orcanimale.fr/liste-de-diffusion/
-        - title: Galactinnov
-          date_end: '2024-10-11'
-          date_start: '2024-10-10'
-          description: |2-
-            *Séminaire (Tours, France)*  
-            Rencontre annuelle Galactinnov-Glande mammaire, Lait
-          #icon: edx
-          organization: Galactinnov
-          organization_url: https://phase.intranet.inrae.fr/vie-scientifique/l-animation-scientifique/les-animations-transversales/reunion-glande-mammaire-lait-galactinnov-2024
-          url: https://phase.intranet.inrae.fr/vie-scientifique/l-animation-scientifique/les-animations-transversales/reunion-glande-mammaire-lait-galactinnov-2024
-        - title: Forsoksdyr komiteen (Norvège)
+            *Webinaire • 17h-18h (en ligne)*  
+            La maîtrise durable des boiteries en bovins laitiers (1/2)
+          #organization: 
+          #organization_url: 
+          url: https://idele.fr/detail-evenement/la-maitrise-durable-des-boiteries-en-bovins-laitiers-1
+        - title: EAAP Webinar Series
           date_end: ''
-          date_start: '2024-10-15'
+          date_start: '2024-11-12'
           description: |2-
-            *Webinaire • 10h-12h (en ligne)*  
-            3Rs in Wild Bird Research
-          #icon: edx
-          organization: Norwegian National Committee for the Protection of Animals used for Scientific Purposes
-          organization_url: https://www.forsoksdyrkomiteen.no/invitation-to-an-online-meeting-on-3rs-and-best-practice-in-wild-bird-research/
-          url: https://www.forsoksdyrkomiteen.no/invitation-to-an-online-meeting-on-3rs-and-best-practice-in-wild-bird-research/
-        - title: Campus Maisons-Alfort
-          date_end: '2024-10-18'
-          date_start: '2024-10-17'
+            *Webinaire • 15h-17h30 (en ligne)*  
+            Beekeeping Today (DL inscription 12/11)
+          #organization: 
+          #organization_url: 
+          url: https://meetings.eaap.org/webinar/beekeeping-today/
+        - title: FC3R
+          date_end: ''
+          date_start: '2024-11-05'
           description: |2-
-            *Colloque (Maisons-Alfort, France)*  
-            HUMANIMAL - Relations humain-animal: mêmes maladies, même environnement et même sensibilité
-          #icon: edx
-          organization: Norwegian National Committee for the Protection of Animals used for Scientific Purposes
-          organization_url: https://hum-ani-mal.sciencesconf.org/?lang=fr
-          url: https://hum-ani-mal.sciencesconf.org/?lang=fr
+            *Webinaire • 13h-14h (en ligne)*   
+            Innovations pédagogiques: alternatives à l'utilisation d'animaux en enseignement supérieur
+          #organization: 
+          #organization_url: 
+          url: https://www.fc3r.com/webinaires/innovations-pedagogiques-alternatives-l-utilisation-d-animaux-en-17.html
+        - title: Animal Welfare Slack Workspace - Applying Ethology
+          date_end: ''
+          date_start: '2024-11-04'
+          description: |2-
+            *Webinaire • 20h (en ligne)*  
+            Effects of behavioural reactivity on production, reproduction, health and welfare in large ruminants
+          #organization: 
+          #organization_url: 
+          url: https://gdoc.pub/doc/e/2PACX-1vTPSRp0QnGTS4wwnLUqswE-ExoCmbCMby9r-swhBqx9ZTNmBNeB33U4XqEDcmKEMdWnhetO_QAtDyuv
+        - title: TARCforce3R (Allemagne)
+          date_end: ''
+          date_start: '2024-10-18'
+          description: |2-
+             *Webinaire • 14h (en ligne)*  
+             Fish as experimental animals
+          #organization: 
+          #organization_url: 
+          url: https://www.unimedizin-mainz.de/tarc-force-3r/veranstaltungen.html
+        - title: Animal Behaviour Live
+          date_end: '2024-11-05'
+          date_start: '2024-11-04'
+          description: |2-
+            *Conférence (en ligne)*. 
+            Annual online conference 2024 (DL inscription 03/11)
+          #organization: 
+          #organization_url: 
+          url: https://animalbehaviour.live/conference
         - title: Journées du Laboratoire Innovation Territorial Expert
           date_end: '2024-10-23'
           date_start: '2024-10-22'
