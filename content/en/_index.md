@@ -53,20 +53,29 @@ sections:
           date_start: '2024-12-04'
           date_end: '2024-12-05'
           description: |2-
-            *Congrès (Paris)*
+            *Congrès (Paris)*  
             3R 2024 - 27e édition Congrès international francophone  
           organization: 3R - Rencontre Recherche Ruminants
           organization_url: https://journees3r.fr/
           url: https://journees3r.fr/
-        - title: 
+        - title: PCI Webinar Series
           date_start: '2024-12-05'
           date_end: ''
           description: |2-
-            *Webinaire • 16h-17h15 (en ligne)*
+            *Webinaire • 16h-17h15 (en ligne)*  
             How much is too much? Estimating APCs and questioning sustainability  
           organization: 
           organization_url: 
-          url: 
+          url: https://peercommunityin.org/pci-webinar-series/
+        - title: IDELE
+          date_start: '2024-12-09'
+          date_end: ''
+          description: |2-
+            *Webinaire • 17h-18h (en ligne)*  
+            La maîtrise durable des boiteries en bovins laitiers (2/2)  
+          organization: 
+          organization_url: 
+          url: https://idele.fr/detail-evenement/la-maitrise-durable-des-boiteries-en-bovins-laitiers-2
         - title: Animal Welfare Slack Workspace - Applying Ethology
           date_end: ''
           date_start: '2024-11-04'
