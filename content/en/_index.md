@@ -42,58 +42,31 @@ sections:
       date_format: January 2, 2006
       items:
         #- title: 
-        #  date_end: '2024-10-18'
         #  date_start: '2024-10-17'
+        #  date_end: '2024-10-18'
         #  description: |2-
         #    * *  
         #  organization: 
         #  organization_url: 
         #  url:
-        - title: Université Catholique de Lille
-          date_end: '2024-11-15'
-          date_start: '2024-11-14'
+        - title: 
+          date_start: '2024-12-04'
+          date_end: '2024-12-05'
           description: |2-
-            *Colloque (Lille & en ligne)*  
-            Traversées et résonances du vivant - Réflexions interdisciplinaires sur les liens fondamentaux humains-animaux-nature
-        #  organization: 
-        #  organization_url: 
-          url: https://lillethics.com/event/colloque-traversees-et-resonances-du-vivant/
-        - title: NC3Rs (Royaume-Uni)
+            *Congrès (Paris)*
+            3R 2024 - 27e édition Congrès international francophone  
+          organization: 3R - Rencontre Recherche Ruminants
+          organization_url: https://journees3r.fr/
+          url: https://journees3r.fr/
+        - title: 
+          date_start: '2024-12-05'
           date_end: ''
-          date_start: '2024-11-13'
           description: |2-
-            *Webinaire • 15h-16h (en ligne)*  
-            Practical guidance for breeding & management of laboratory animal colonies (inscription requise)  
-          #organization: 
-          #organization_url: 
-          url: https://register.gotowebinar.com/register/5318167759149336150?source=Website
-        - title: IDELE
-          date_end: ''
-          date_start: '2024-11-12'
-          description: |2-
-            *Webinaire • 17h-18h (en ligne)*  
-            La maîtrise durable des boiteries en bovins laitiers (1/2)
-          #organization: 
-          #organization_url: 
-          url: https://idele.fr/detail-evenement/la-maitrise-durable-des-boiteries-en-bovins-laitiers-1
-        - title: EAAP Webinar Series
-          date_end: ''
-          date_start: '2024-11-12'
-          description: |2-
-            *Webinaire • 15h-17h30 (en ligne)*  
-            Beekeeping Today (DL inscription 12/11)
-          #organization: 
-          #organization_url: 
-          url: https://meetings.eaap.org/webinar/beekeeping-today/
-        - title: FC3R
-          date_end: ''
-          date_start: '2024-11-05'
-          description: |2-
-            *Webinaire • 13h-14h (en ligne)*   
-            Innovations pédagogiques: alternatives à l'utilisation d'animaux en enseignement supérieur
-          #organization: 
-          #organization_url: 
-          url: https://www.fc3r.com/webinaires/innovations-pedagogiques-alternatives-l-utilisation-d-animaux-en-17.html
+            *Webinaire • 16h-17h15 (en ligne)*
+            How much is too much? Estimating APCs and questioning sustainability  
+          organization: 
+          organization_url: 
+          url: 
         - title: Animal Welfare Slack Workspace - Applying Ethology
           date_end: ''
           date_start: '2024-11-04'
@@ -112,36 +85,6 @@ sections:
           #organization: 
           #organization_url: 
           url: https://www.unimedizin-mainz.de/tarc-force-3r/veranstaltungen.html
-        - title: Animal Behaviour Live
-          date_end: '2024-11-05'
-          date_start: '2024-11-04'
-          description: |2-
-            *Conférence (en ligne)*  
-            Annual online conference 2024 (DL inscription 03/11)
-          #organization: 
-          #organization_url: 
-          url: https://animalbehaviour.live/conference
-        - title: Journées du Laboratoire Innovation Territorial Expert
-          date_end: '2024-10-23'
-          date_start: '2024-10-22'
-          description: |2-
-            *Colloque (Rennes, France)*  
-            Le bien-être animal, sa place et sa valorisation: moteur d'un sens renouvelé au travail ?
-          #icon: edx
-          organization: LIT Expert
-          organization_url: https://phase.intranet.inrae.fr/vie-scientifique/congres-et-colloques/journees-l.i.t-expert
-          url: https://phase.intranet.inrae.fr/vie-scientifique/congres-et-colloques/journees-l.i.t-expert
-        - title: Evaluation du Bien-Etre animal en Pisciculture
-          date_end: ''
-          date_start: '2024-10-24'
-          description: |2-
-            *Webinaire • 10h-12h (en ligne - PAYANT)*  
-            Présentation de la démarche et de l’outil pilote « EBENE® Truite »  
-            sur l’évaluation du Bien-Etre en élevage ; travaux sur les autres espèces piscicoles 
-          #icon: edx
-          organization: ITAVI
-          organization_url: https://evenements.itavi.asso.fr/
-          url: https://evenements.itavi.asso.fr/evenement/evaluation-du-bien-etre-animal-en-pisciculture
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
