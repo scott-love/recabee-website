@@ -49,7 +49,7 @@ sections:
         #  organization: 
         #  organization_url: 
         #  url:
-        - title: 
+        - title: 3R - Rencontre Recherche Ruminants
           date_start: '2024-12-04'
           date_end: '2024-12-05'
           description: |2-
@@ -96,7 +96,7 @@ sections:
           url: https://register.gotowebinar.com/register/5640597345748054109?source=Website
         - title: TARCforce3R (Allemagne)
           date_end: ''
-          date_start: '2024-10-18'
+          date_start: '2024-12-19'
           description: |2-
              *Webinaire • 14h -16h (en ligne)*  
              Why is our pain management failing?
