@@ -76,21 +76,48 @@ sections:
           organization: 
           organization_url: 
           url: https://idele.fr/detail-evenement/la-maitrise-durable-des-boiteries-en-bovins-laitiers-2
+        - title: Centre pour la Communication Scientifique Directe
+          date_start: '2024-12-12'
+          date_end: ''
+          description: |2-
+            *Webinaire • 14h-15h30 (en ligne)*  
+            Logiciels et codes sources en science ouverte: du pratique à l'opérationnel
+          organization: 
+          organization_url: 
+          url: https://www.ccsd.cnrs.fr/parlons-science-ouverte/
+        - title: Responsible Research (UK)
+          date_start: '2024-12-18'
+          date_end: ''
+          description: |2-
+            *Webinaire • 15h-16h (en ligne)*  
+            Guide to open research practices for animal research
+          organization: 
+          organization_url: 
+          url: https://register.gotowebinar.com/register/5640597345748054109?source=Website
+        - title: TARCforce3R (Allemagne)
+          date_end: ''
+          date_start: '2024-10-18'
+          description: |2-
+             *Webinaire • 14h -16h (en ligne)*  
+             Why is our pain management failing?
+          #organization: 
+          #organization_url: 
+          url: https://www.unimedizin-mainz.de/tarc-force-3r/veranstaltungen.html
         - title: Animal Welfare Slack Workspace - Applying Ethology
           date_end: ''
-          date_start: '2024-11-04'
+          date_start: '2025-01-13'
           description: |2-
             *Webinaire • 20h (en ligne)*  
-            Effects of behavioural reactivity on production, reproduction, health and welfare in large ruminants
+            Factors affecting grazing and rumination behaviours of dairy cows in pasture-based systems
           #organization: 
           #organization_url: 
           url: https://gdoc.pub/doc/e/2PACX-1vTPSRp0QnGTS4wwnLUqswE-ExoCmbCMby9r-swhBqx9ZTNmBNeB33U4XqEDcmKEMdWnhetO_QAtDyuv
         - title: TARCforce3R (Allemagne)
           date_end: ''
-          date_start: '2024-10-18'
+          date_start: '2025-01-24'
           description: |2-
-             *Webinaire • 14h (en ligne)*  
-             Fish as experimental animals
+             *Webinaire • 14h -16h (en ligne)*  
+             Animal Welfare Frontiers: Considering Insect Welfare in Farming and Research
           #organization: 
           #organization_url: 
           url: https://www.unimedizin-mainz.de/tarc-force-3r/veranstaltungen.html
