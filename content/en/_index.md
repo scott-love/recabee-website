@@ -55,8 +55,8 @@ sections:
           description: |2-
             *Congrès (Paris)*  
             3R 2024 - 27e édition Congrès international francophone  
-          organization: 3R - Rencontre Recherche Ruminants
-          organization_url: https://journees3r.fr/
+          organization:
+          organization_url:
           url: https://journees3r.fr/
         - title: PCI Webinar Series
           date_start: '2024-12-05'
