@@ -106,6 +106,15 @@ sections:
           #organization: 
           #organization_url: 
           url: https://www.cost-teatime.org/events/the-art-of-communicating-animal-research-in-the-21st-century-first-webinar/
+        - title: Animal Welfare Slack Workspace - Applying Ethology
+          date_start: '2025-02-03'
+          date_end: ''
+          description: |2-
+            * Webinaire • 20h (en ligne)*  
+            Impact of farrowing crate enrichment strategies on the welfare, behavior, and performance of sows, suckling piglets, and post-weaning piglets
+          #organization: 
+          #organization_url: 
+          url: https://gdoc.pub/doc/e/2PACX-1vTPSRp0QnGTS4wwnLUqswE-ExoCmbCMby9r-swhBqx9ZTNmBNeB33U4XqEDcmKEMdWnhetO_QAtDyuv
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
