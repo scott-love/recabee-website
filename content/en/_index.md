@@ -42,8 +42,8 @@ sections:
       date_format: January 2, 2006
       items:
         #- title: 
-        #  date_start: '2024-10-17'
-        #  date_end: '2024-10-18'
+        #  date_start: '2025-10-17'
+        #  date_end: '2025-10-18'
         #  description: |2-
         #    * *  
         #  organization: 
@@ -58,6 +58,24 @@ sections:
           #organization: 
           #organization_url: 
           url: https://gdoc.pub/doc/e/2PACX-1vTPSRp0QnGTS4wwnLUqswE-ExoCmbCMby9r-swhBqx9ZTNmBNeB33U4XqEDcmKEMdWnhetO_QAtDyuv
+        - title: Observatoire de Recherche sur la Condition Animale
+          date_start: ''
+          date_end: '2025-01-14'
+          description: |2-
+            *Webinaire • 18h (s'inscrire à la liste de diffusion pour avoir le lien)*  
+            Comment la poule est-elle devenue un animal à aimer ?  
+            l'ascension de l'animal dans la hiérarchie humanimale
+          #organization: 
+          #organization_url: 
+          url: https://orcanimale.fr/liste-de-diffusion/#
+        #- title: 
+        #  date_start: '2025-10-17'
+        #  date_end: '2025-10-18'
+        #  description: |2-
+        #    * *  
+        #  organization: 
+        #  organization_url: 
+        #  url:
         - title: TARCforce3R (Allemagne)
           date_end: ''
           date_start: '2025-01-24'
