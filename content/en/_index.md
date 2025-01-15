@@ -68,8 +68,8 @@ sections:
           #organization_url: 
           url: https://www.unimedizin-mainz.de/tarc-force-3r/veranstaltungen.html
         - title: Observatoire de Recherche sur la Condition Animale
-          date_end: ''
           date_start: '2025-01-14'
+          date_end: ''
           description: |2-
             *Webinaire • 18h (s'inscrire à la liste de diffusion pour avoir le lien)*  
             Comment la poule est-elle devenue un animal à aimer ?  
