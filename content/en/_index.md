@@ -96,7 +96,16 @@ sections:
             (DL inscription: 21/01)
           organization: 
           organization_url: 
-          url:
+          url: https://nextcloud.inrae.fr/s/NKt5SkMgELndaZo
+        - title: COST TEATIME Action |
+          date_start: '2025-01-28'
+          date_end: ''
+          description: |2-
+            *Webinaire • 12h- 14h (en ligne) *  
+            The Art of Communicating Animal Research in the 21st Century - First Webinar
+          #organization: 
+          #organization_url: 
+          url: https://www.cost-teatime.org/events/the-art-of-communicating-animal-research-in-the-21st-century-first-webinar/
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
