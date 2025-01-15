@@ -41,60 +41,6 @@ sections:
       text: ''
       date_format: January 2, 2006
       items:
-        - title: 3R - Rencontre Recherche Ruminants
-          date_start: '2024-12-04'
-          date_end: '2024-12-05'
-          description: |2-
-            *Congrès (Paris)*  
-            3R 2024 - 27e édition Congrès international francophone  
-          organization:
-          organization_url:
-          url: https://journees3r.fr/
-        - title: PCI Webinar Series
-          date_start: '2024-12-05'
-          date_end: ''
-          description: |2-
-            *Webinaire • 16h-17h15 (en ligne)*  
-            How much is too much? Estimating APCs and questioning sustainability  
-          organization: 
-          organization_url: 
-          url: https://peercommunityin.org/pci-webinar-series/
-        - title: IDELE
-          date_start: '2024-12-09'
-          date_end: ''
-          description: |2-
-            *Webinaire • 17h-18h (en ligne)*  
-            La maîtrise durable des boiteries en bovins laitiers (2/2)  
-          organization: 
-          organization_url: 
-          url: https://idele.fr/detail-evenement/la-maitrise-durable-des-boiteries-en-bovins-laitiers-2
-        - title: Centre pour la Communication Scientifique Directe
-          date_start: '2024-12-12'
-          date_end: ''
-          description: |2-
-            *Webinaire • 14h-15h30 (en ligne)*  
-            Logiciels et codes sources en science ouverte: du pratique à l'opérationnel
-          organization: 
-          organization_url: 
-          url: https://www.ccsd.cnrs.fr/parlons-science-ouverte/
-        - title: Responsible Research (UK)
-          date_start: '2024-12-18'
-          date_end: ''
-          description: |2-
-            *Webinaire • 15h-16h (en ligne)*  
-            Guide to open research practices for animal research
-          organization: 
-          organization_url: 
-          url: https://register.gotowebinar.com/register/5640597345748054109?source=Website
-        - title: TARCforce3R (Allemagne)
-          date_end: ''
-          date_start: '2024-12-19'
-          description: |2-
-             *Webinaire • 14h -16h (en ligne)*  
-             Why is our pain management failing?
-          #organization: 
-          #organization_url: 
-          url: https://www.unimedizin-mainz.de/tarc-force-3r/veranstaltungen.html
         - title: Animal Welfare Slack Workspace - Applying Ethology
           date_end: ''
           date_start: '2025-01-13'
@@ -110,6 +56,63 @@ sections:
           description: |2-
              *Webinaire • 14h -16h (en ligne)*  
              Animal Welfare Frontiers: Considering Insect Welfare in Farming and Research
+          #organization: 
+          #organization_url: 
+          url: https://www.unimedizin-mainz.de/tarc-force-3r/veranstaltungen.html
+        - title: Observatoire de Recherche sur la Condition Animale
+          date_start: '2025-01-14'
+          date_end: ''
+          description: |2-
+            *Webinaire • 18h (s'inscrire à la liste de diffusion pour avoir le lien)*  
+            Comment la poule est-elle devenue un animal à aimer ?  
+            l'ascension de l'animal dans la hiérarchie humanimale
+          #organization: 
+          #organization_url: 
+          url: https://orcanimale.fr/liste-de-diffusion/#
+        - title: Académie d'Agriculture de France
+          date_start: '2025-01-23'
+          date_end: ''
+          description: |2-
+            *Colloque • 9h- 14h (Paris & en ligne)*  
+            Faire battre One Health au coeur de la France
+          #organization: 
+          #organization_url: 
+          url: https://www.academie-agriculture.fr/actualites/academie/colloque/academie/faire-battre-one-health-au-coeur-de-la-france
+        - title: INRAE RDV COMPET'ences.
+          date_start: '2025-01-23'
+          date_end: ''
+          description: |2-
+            *Webinaire • 13h30-15h (en ligne)*  
+            Exploration des liens entre émotions et cognition chez les animaux de ferme   
+            pour mieux comprendre le bien-être animal  
+            (DL inscription: 21/01)
+          organization: 
+          organization_url: 
+          url: https://nextcloud.inrae.fr/s/NKt5SkMgELndaZo
+        - title: COST TEATIME Action |
+          date_start: '2025-01-28'
+          date_end: ''
+          description: |2-
+            *Webinaire • 12h- 14h (en ligne) *  
+            The Art of Communicating Animal Research in the 21st Century - First Webinar
+          #organization: 
+          #organization_url: 
+          url: https://www.cost-teatime.org/events/the-art-of-communicating-animal-research-in-the-21st-century-first-webinar/
+        - title: Animal Welfare Slack Workspace - Applying Ethology
+          date_start: '2025-02-03'
+          date_end: ''
+          description: |2-
+            * Webinaire • 20h (en ligne)*  
+            Impact of farrowing crate enrichment strategies on the welfare, behavior, and performance of sows, suckling piglets, and post-weaning piglets
+          #organization: 
+          #organization_url: 
+          url: https://gdoc.pub/doc/e/2PACX-1vTPSRp0QnGTS4wwnLUqswE-ExoCmbCMby9r-swhBqx9ZTNmBNeB33U4XqEDcmKEMdWnhetO_QAtDyuv
+        - title: TARCforce3R (Allemagne)
+          date_end: ''
+          date_start: '2025-02-14'
+          description: |2-
+             *Webinaire • 14h -16h (en ligne)*  
+             Communicating animal research on social media
           #organization: 
           #organization_url: 
           url: https://www.unimedizin-mainz.de/tarc-force-3r/veranstaltungen.html
