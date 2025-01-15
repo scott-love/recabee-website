@@ -115,6 +115,15 @@ sections:
           #organization: 
           #organization_url: 
           url: https://gdoc.pub/doc/e/2PACX-1vTPSRp0QnGTS4wwnLUqswE-ExoCmbCMby9r-swhBqx9ZTNmBNeB33U4XqEDcmKEMdWnhetO_QAtDyuv
+        - title: TARCforce3R (Allemagne)
+          date_end: ''
+          date_start: '2025-02-14'
+          description: |2-
+             *Webinaire • 14h -16h (en ligne)*  
+             Communicating animal research on social media
+          #organization: 
+          #organization_url: 
+          url: https://www.unimedizin-mainz.de/tarc-force-3r/veranstaltungen.html
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
