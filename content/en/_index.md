@@ -86,6 +86,17 @@ sections:
           #organization: 
           #organization_url: 
           url: https://www.academie-agriculture.fr/actualites/academie/colloque/academie/faire-battre-one-health-au-coeur-de-la-france
+        - title: INRAE RDV COMPET'ences.
+          date_start: '2025-01-23'
+          date_end: ''
+          description: |2-
+            *Webinaire • 13h30-15h (en ligne)*  
+            Exploration des liens entre émotions et cognition chez les animaux de ferme   
+            pour mieux comprendre le bien-être animal  
+            (DL inscription: 21/01)
+          organization: 
+          organization_url: 
+          url:
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
