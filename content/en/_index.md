@@ -58,25 +58,6 @@ sections:
           #organization: 
           #organization_url: 
           url: https://gdoc.pub/doc/e/2PACX-1vTPSRp0QnGTS4wwnLUqswE-ExoCmbCMby9r-swhBqx9ZTNmBNeB33U4XqEDcmKEMdWnhetO_QAtDyuv
-        - title: Observatoire de Recherche sur la Condition Animale
-          date_end: ''
-          date_start: '2025-01-14'
-          description: |2-
-            *Webinaire • 18h (s'inscrire à la liste de diffusion pour avoir le lien)*  
-            Comment la poule est-elle devenue un animal à aimer ?  
-            l'ascension de l'animal dans la hiérarchie humanimale
-          #organization: 
-          #organization_url: 
-          url: https://orcanimale.fr/liste-de-diffusion/#
-          - title: Académie d'Agriculture de France
-          date_end: ''
-          date_start: '2025-01-23'
-          description: |2-
-            *Colloque • 9h- 14h (Paris & en ligne)*  
-            Faire battre One Health au coeur de la France
-          #organization: 
-          #organization_url: 
-          url: https://www.academie-agriculture.fr/actualites/academie/colloque/academie/faire-battre-one-health-au-coeur-de-la-france
         - title: TARCforce3R (Allemagne)
           date_end: ''
           date_start: '2025-01-24'
