@@ -58,7 +58,7 @@ sections:
       #    text: conference website
       #    url: 'https://eaap2023.org'
       - title: The 54th Conference of the French Society for the Study of Animal Behavior
-        content: 10 to 13 June 2023 in Tours, France
+        content: 10 to 13 June 2023 Université Paris Nanterre, France
         align: center
         background:
           image:
