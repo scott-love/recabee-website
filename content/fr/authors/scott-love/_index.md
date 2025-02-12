@@ -35,9 +35,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:scott.love@inrae.fr'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/love_a_scott
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=jiIfA5IAAAAJ
