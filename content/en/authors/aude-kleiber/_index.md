@@ -37,9 +37,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:aude.kleiber@anses.fr'
-  - icon: twitter
-    icon_pack: fab
-    link: https://x.com/KleiberAude?t=F6NBtPYZc9ZQugXwO98Ohw&s=09
   - icon: orcid
     icon_pack: ai
     link: https://orcid.org/0000-0002-2333-472X

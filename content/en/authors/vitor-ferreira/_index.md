@@ -36,9 +36,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:vitor.ferreira@inrae.fr'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/FerreiraVHB
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=XJKVLmwAAAAJ&hl

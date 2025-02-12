@@ -37,9 +37,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:rachel.degrande@gmail.com'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/DegrandeRachel
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=Vv8YZsYAAAAJ&hl=fr&oi 

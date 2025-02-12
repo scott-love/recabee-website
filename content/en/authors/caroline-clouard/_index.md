@@ -38,9 +38,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:caroline.clouard@inrae.fr'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/CarolineClouard
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?hl=en&user=_z0FHAEAAAAJ
