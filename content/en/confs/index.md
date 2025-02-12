@@ -22,7 +22,7 @@ sections:
           text: conference website
           url: 'https://comparativecognition.org/conference.php'
       - title: The 58th Congress of the International Society for Applied Ethology
-        content: 'TBA 2025 in Utrecht, Netherlands'
+        content: '4 to 8 August, 2025 in Utrecht, Netherlands'
         align: center
         background:
           image:
@@ -31,9 +31,9 @@ sections:
               brightness: 0.7
           position: center
           color: '#666'
-        #link:
-        #  text: conference website
-        #  url: 'https://www.isae2024brazil.com/'
+        link:
+          text: conference website
+          url: 'https://isae2025utrecht.nl/'
       - title: Big Team Science Conference
         content: '8 to 10 October 2024'
         align: center
@@ -57,19 +57,19 @@ sections:
       #  link:
       #    text: conference website
       #    url: 'https://eaap2023.org'
-      #- title: The 52nd Conference of the French Society for the Study of Animal Behavior
-      #  content: 23 to 25 May 2023 in Tours, France
-      #  align: center
-      #  background:
-      #    image:
-      #      filename: sfeca.jpg
-      #      filters:
-      #        brightness: 0.5
-      #    position: center
-      #    color: '#666'
-      #  link:
-      #    text: conference website
-      #    url: 'https://sfecatours.sciencesconf.org'
+      - title: The 54th Conference of the French Society for the Study of Animal Behavior
+        content: 10 to 13 June 2023 in Tours, France
+        align: center
+        background:
+          image:
+            filename: sfeca.jpg
+            filters:
+              brightness: 0.5
+          position: center
+          color: '#666'
+        #link:
+        #  text: conference website
+        #  url: 'https://sfeca.cnrs.fr/index.php/2024/01/26/le-prochain-colloque-aura-lieu-a-albi/'
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
