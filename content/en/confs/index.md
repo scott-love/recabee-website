@@ -34,16 +34,16 @@ sections:
         link:
           text: conference website
           url: 'https://isae2025utrecht.nl/'
-      - title: Big Team Science Conference
-        content: '8 to 10 October 2024'
-        align: center
-        background:
-          position: center
-          color: '#c4c0b3'
-          brightness: 0.6
-        link:
-          text: conference website
-          url: 'https://bigteamscienceconference.github.io/'
+      #- title: Big Team Science Conference
+      #  content: '8 to 10 October 2024'
+      #  align: center
+      #  background:
+      #    position: center
+      #    color: '#c4c0b3'
+      #    brightness: 0.6
+      #  link:
+      #    text: conference website
+      #    url: 'https://bigteamscienceconference.github.io/'
       #- title: The Joint International Congress on Animal Science
       #  content: 26 August to 1 September 2023 in Lyon, France
       #  align: center
@@ -70,6 +70,19 @@ sections:
         #link:
         #  text: conference website
         #  url: 'https://sfeca.cnrs.fr/index.php/2024/01/26/le-prochain-colloque-aura-lieu-a-albi/'
+      - title: The Association for the study of Animal Behaviour
+        content: 23 to 25 April, 2005, in Liverpool, UK
+        align: center
+        background:
+          image:
+            filename: 
+            filters:
+              brightness: 0.5
+          position: center
+          color: '#666'
+        link:
+          text: conference website
+          url: 'https://asabspring2025.github.io/'
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
