@@ -49,81 +49,33 @@ sections:
         #  organization: 
         #  organization_url: 
         #  url:
-        - title: Animal Welfare Slack Workspace - Applying Ethology
-          date_end: ''
-          date_start: '2025-01-13'
-          description: |2-
-            *Webinaire • 20h (en ligne)*  
-            Factors affecting grazing and rumination behaviours of dairy cows in pasture-based systems
-          #organization: 
-          #organization_url: 
-          url: https://gdoc.pub/doc/e/2PACX-1vTPSRp0QnGTS4wwnLUqswE-ExoCmbCMby9r-swhBqx9ZTNmBNeB33U4XqEDcmKEMdWnhetO_QAtDyuv
         - title: TARCforce3R (Allemagne)
           date_end: ''
-          date_start: '2025-01-24'
+          date_start: '2025-03-14'
           description: |2-
-             *Webinaire • 14h -16h (en ligne)*  
-             Animal Welfare Frontiers: Considering Insect Welfare in Farming and Research
+             *Webinaire • 14h (en ligne)*  
+             The goats who stare at scientists - towards a cognitive approach to human-animal interactions in farm animals
           #organization: 
           #organization_url: 
           url: https://www.unimedizin-mainz.de/tarc-force-3r/veranstaltungen.html
-        - title: Observatoire de Recherche sur la Condition Animale
-          date_start: '2025-01-14'
+        - title: PCI Webinar Series
+          date_start: '2025-03-20'
           date_end: ''
           description: |2-
-            *Webinaire • 18h (s'inscrire à la liste de diffusion pour avoir le lien)*  
-            Comment la poule est-elle devenue un animal à aimer ?  
-            l'ascension de l'animal dans la hiérarchie humanimale
-          #organization: 
-          #organization_url: 
-          url: https://orcanimale.fr/liste-de-diffusion/#
-        - title: Académie d'Agriculture de France
-          date_start: '2025-01-23'
+            *Webinaire • 16h (en ligne)*  
+            When Open Publishing Is Not Fair
+        #  organization: 
+        #  organization_url: 
+          url: https://peercommunityin.org/pci-webinar-series/
+        - title: FC3R
+          date_start: '2025-03-13'
           date_end: ''
           description: |2-
-            *Colloque • 9h- 14h (Paris & en ligne)*  
-            Faire battre One Health au coeur de la France
-          #organization: 
-          #organization_url: 
-          url: https://www.academie-agriculture.fr/actualites/academie/colloque/academie/faire-battre-one-health-au-coeur-de-la-france
-        - title: INRAE RDV COMPET'ences.
-          date_start: '2025-01-23'
-          date_end: ''
-          description: |2-
-            *Webinaire • 13h30-15h (en ligne)*  
-            Exploration des liens entre émotions et cognition chez les animaux de ferme   
-            pour mieux comprendre le bien-être animal  
-            (DL inscription: 21/01)
-          organization: 
-          organization_url: 
-          url: https://nextcloud.inrae.fr/s/NKt5SkMgELndaZo
-        - title: COST TEATIME Action |
-          date_start: '2025-01-28'
-          date_end: ''
-          description: |2-
-            *Webinaire • 12h- 14h (en ligne) *  
-            The Art of Communicating Animal Research in the 21st Century - First Webinar
-          #organization: 
-          #organization_url: 
-          url: https://www.cost-teatime.org/events/the-art-of-communicating-animal-research-in-the-21st-century-first-webinar/
-        - title: Animal Welfare Slack Workspace - Applying Ethology
-          date_start: '2025-02-03'
-          date_end: ''
-          description: |2-
-            * Webinaire • 20h (en ligne)*  
-            Impact of farrowing crate enrichment strategies on the welfare, behavior, and performance of sows, suckling piglets, and post-weaning piglets
-          #organization: 
-          #organization_url: 
-          url: https://gdoc.pub/doc/e/2PACX-1vTPSRp0QnGTS4wwnLUqswE-ExoCmbCMby9r-swhBqx9ZTNmBNeB33U4XqEDcmKEMdWnhetO_QAtDyuv
-        - title: TARCforce3R (Allemagne)
-          date_end: ''
-          date_start: '2025-02-14'
-          description: |2-
-             *Webinaire • 14h -16h (en ligne)*  
-             Communicating animal research on social media
-          #organization: 
-          #organization_url: 
-          url: https://www.unimedizin-mainz.de/tarc-force-3r/veranstaltungen.html
+            *Webinaire • 13h - 14h (en ligne)*  
+            Raffiner l’administration de substances chez les rongeurs
+        #  organization: 
+        #  organization_url: 
+          url: https://www.fc3r.com/webinaires/raffiner-administration-substances-chez-rongeurs-20.html
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
