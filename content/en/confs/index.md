@@ -8,8 +8,8 @@ sections:
   - block: slider
     content:
       slides:
-      - title: The 32nd International Conference on Comparative Cognition
-        content: 26 to 29 March 2025 in Albuquerque, New Mexico, USA
+      - title: The 33rd International Conference on Comparative Cognition
+        content: 15 to 18 April 2026 in Montréal, QC, Canada
         align: center
         background:
           image:
@@ -21,8 +21,8 @@ sections:
         link:
           text: conference website
           url: 'https://comparativecognition.org/conference.php'
-      - title: The 58th Congress of the International Society for Applied Ethology
-        content: '4 to 8 August, 2025 in Utrecht, Netherlands'
+      - title: The 59th Congress of the International Society for Applied Ethology
+        content: '10 to 14 August, 2026 in New Delhi, India'
         align: center
         background:
           image:
@@ -33,7 +33,7 @@ sections:
           color: '#666'
         link:
           text: conference website
-          url: 'https://isae2025utrecht.nl/'
+          url: 'https://isae2026delhi.in'
       #- title: Big Team Science Conference
       #  content: '8 to 10 October 2024'
       #  align: center
@@ -57,8 +57,8 @@ sections:
       #  link:
       #    text: conference website
       #    url: 'https://eaap2023.org'
-      - title: The 54th Conference of the French Society for the Study of Animal Behavior
-        content: 10 to 13 June 2023 Université Paris Nanterre, France
+      - title: The 55th Conference of the French Society for the Study of Animal Behavior
+        content: 4 to 6 November 2026 Université Paris Nanterre, France
         align: center
         background:
           image:
@@ -67,22 +67,22 @@ sections:
               brightness: 0.5
           position: center
           color: '#666'
-        #link:
-        #  text: conference website
-        #  url: 'https://sfeca.cnrs.fr/index.php/2024/01/26/le-prochain-colloque-aura-lieu-a-albi/'
-      - title: The Association for the study of Animal Behaviour
-        content: 23 to 25 April, 2005, in Liverpool, UK
+        link:
+          text: conference website
+          url: 'https://sfeca.cnrs.fr/index.php/2025/09/26/le-prochain-colloque-aura-lieu-a-paris/'
+      - title: European Conference for Behavioural Biology (ECBB/ASAB)
+        content: 1 to 4 September, 2026, in Cambridge, UK
         align: center
         background:
           image:
-            filename: 
+            filename: ecbb-logos_738.jpg
             filters:
               brightness: 0.5
           position: center
           color: '#666'
         link:
           text: conference website
-          url: 'https://asabspring2025.github.io/'
+          url: 'https://www.aru.ac.uk/events/conferences/ecbb-2026'
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
