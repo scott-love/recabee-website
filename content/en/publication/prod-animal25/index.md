@@ -1,18 +1,15 @@
 ---
-title: "Review: Rethinking environmental enrichment as providing opportunities to acquire information"
+title: "Numéro spécial - Bien-être animal : avancées scientifiques et innovations pour des systèmes d’élevage durables – Avant-propos"
 authors:
-- Isabelle Veissier
-- C. Lesimple
-- Valentin Brunet
-- Lydiane Aubé
-- R. Botreau
+- Cécile Ginane
+- Elodie Chaillou
 
 #profile: false 
 
 author_notes:
 - ""
-date: "2024-09-01T12:18:50+01:00"
-doi: "10.1016/j.animal.2024.101251"
+date: "2025-12-23T12:18:50+01:00"
+doi: "10.20870/productions-animales.2025.38.4.9828"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -24,27 +21,23 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*animal*"
+publication: "INRAE Production Animales"
 publication_short: ""
 
-abstract: "Environmental enrichment, that is making the environment of animals more complex, was first designed to enhance the welfare and cognitive abilities of captive animals, and was more recently applied to farm animals. Enrichments can be sensory, physical, social, occupational, feeding-based, or a mix of these, with a view to improve animals’ welfare. We posit that enrichments share the common factor of providing information to animals so that enrichment is all about providing the animal with a way to acquire information by interacting with the environment. Animals enjoy acquiring information, and the process of acquiring information acts in a way that enables them to better adapt to future environments. This reframed view of enrichment has several implications including prolonging the duration of exposure to an enrichment does not necessarily increase the impact of that enrichment, neutral and even slightly negative stimuli may still be enriching, complex and variable environments are enriching, and the more intensively an animal can engage with the environment, the more it will benefit from enrichments. These implications should be further explored by comprehensive re-analyses of findings from the enrichment literature and/or by dedicated experiments."
+abstract: "Le respect du bien-être animal est une demande forte de la société vis-à-vis des systèmes d’élevage. Ce numéro spécial comprenant neuf articles fait le point sur les avancées scientifiques (prise en compte des états mentaux positifs des animaux, meilleure connaissance et prise en charge de la douleur), les innovations technologiques (aménagement d’enrichissement du milieu d’élevage et techniques d’élevage de précision) et les démarches participatives de conception des systèmes d’élevage permettant d’intégrer pleinement le bien-être animal dans les objectifs de durabilité. Ce numéro analyse aussi les relations entre respect du bien-être animal et performances économiques et environnementales des systèmes d’élevage ainsi que son intégration dans l’approche One Welfare prenant en compte également le bien-être humain et le respect de l’environnement."
 
 # Summary. An optional shortened abstract.
 summary: ""
 
 tags:
-- "agency"
 - "animal welfare"
-- "captive animals"
-- "environmental complexity"
-- "exploration"
 
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'https://www.sciencedirect.com/science/article/pii/S1751731124001824/pdfft?md5=b3455ebe54e011be022c9601a7e11184&pid=1-s2.0-S1751731124001824-main.pdf'
+url_pdf: 'https://productions-animales.org/article/view/9828/50796'
 url_code: ''
 url_dataset: ''
 url_poster: ''
