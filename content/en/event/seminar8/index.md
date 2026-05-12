@@ -1,7 +1,7 @@
 ---
-title: Webinar 7 - "Inter-individual animal relationships"
+title: Webinar 8 - "Domestication"
 
-event: RECABEE Webinar 7
+event: RECABEE Webinar 8
 event_url: 
 
 location: Online via Zoom
@@ -12,12 +12,12 @@ location: Online via Zoom
 #  postcode: '94305'
 #  country: United States
 
-summary: The seventh RECABEE webinar where we discussed animal collective intellegence and parenting.
+summary: The eighth RECABEE webinar where we will discuss animal domestication and its interaction with livestock systems.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2025-02-04T14:00:00Z'
-date_end: '2025-02-04T17:00:00Z'
+date: '2026-05-26T14:00:00Z'
+date_end: '2026-26-04T17:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -49,5 +49,3 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-
-The seventh RECABEE webinar where we discussed animal collective intellegence with [Vincent Fourcassi](https://cbi-toulouse.fr/fr/page-personnelle-28) and animal parenting with [Raymond Nowak](https://www.humensciences.com/livre/Parents-animaux/139).
